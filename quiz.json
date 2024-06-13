@@ -1,0 +1,155 @@
+{
+  "shortDescription": "Test your knowledge of Web3 with this quiz.",
+  "questions": [
+    {
+      "question": "What is Web3?",
+      "answers": ["Web tech", "Blockchain", "AI"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Ethereum?",
+      "answers": ["Crypto", "Bank", "App"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": ["Finance", "Game", "Music"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is NFT?",
+      "answers": ["Token", "Coin", "Cash"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DAO?",
+      "answers": ["Org", "App", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Solidity?",
+      "answers": ["Language", "Tool", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a dApp?",
+      "answers": ["App", "Device", "Protocol"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is staking?",
+      "answers": ["Locking", "Mining", "Trading"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a wallet?",
+      "answers": ["Storage", "Bank", "Network"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas?",
+      "answers": ["Fee", "Fuel", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Metamask?",
+      "answers": ["Wallet", "App", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Code", "Deal", "Server"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an oracle?",
+      "answers": ["Data", "Node", "App"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Proof of Work?",
+      "answers": ["Mining", "Storage", "Stake"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Proof of Stake?",
+      "answers": ["Consensus", "Trade", "Mint"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a blockchain?",
+      "answers": ["Ledger", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a token?",
+      "answers": ["Asset", "Coin", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a miner?",
+      "answers": ["Validator", "Trader", "User"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Web3.js?",
+      "answers": ["Library", "App", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is IPFS?",
+      "answers": ["Storage", "Token", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is zk-SNARK?",
+      "answers": ["Privacy", "Token", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Layer 2?",
+      "answers": ["Scaling", "Token", "Storage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is sharding?",
+      "answers": ["Scaling", "Minting", "Trading"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a hash?",
+      "answers": ["Digest", "Node", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas limit?",
+      "answers": ["Max fee", "Storage", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EVM?",
+      "answers": ["Machine", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a node?",
+      "answers": ["Computer", "Coin", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is decentralization?",
+      "answers": ["No center", "Control", "Trade"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is consensus?",
+      "answers": ["Agreement", "Coin", "Mint"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a ledger?",
+      "answers": ["Record", "Coin", "Wallet"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
