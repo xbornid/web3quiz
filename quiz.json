@@ -1,154 +1,154 @@
 {
-  "shortDescription": "Test your knowledge of Web3 with this quiz.",
+  "shortDescription": "Farcaster Quiz by @xbornid",
   "questions": [
     {
-      "question": "What is Web3?",
-      "answers": ["Web tech", "Blockchain", "AI"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is Ethereum?",
-      "answers": ["Crypto", "Bank", "App"],
+      "question": "Apa itu Farcaster?",
+      "answers": ["Protokol", "Aplikasi", "Token"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is DeFi?",
-      "answers": ["Finance", "Game", "Music"],
+      "question": "Siapa pendiri Farcaster?",
+      "answers": ["Dan", "John", "Sara"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is NFT?",
-      "answers": ["Token", "Coin", "Cash"],
+      "question": "Apa fungsi utama Farcaster?",
+      "answers": ["Komunikasi", "Pembayaran", "Perdagangan"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a DAO?",
-      "answers": ["Org", "App", "Chain"],
+      "question": "Apa itu identitas terdesentralisasi?",
+      "answers": ["ID", "Token", "Wallet"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Solidity?",
-      "answers": ["Language", "Tool", "Wallet"],
+      "question": "Farcaster berbasis di atas blockchain apa?",
+      "answers": ["Ethereum", "Bitcoin", "Cardano"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a dApp?",
-      "answers": ["App", "Device", "Protocol"],
+      "question": "Apa itu komunitas Farcaster?",
+      "answers": ["Jaringan", "Bank", "Toko"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is staking?",
-      "answers": ["Locking", "Mining", "Trading"],
+      "question": "Apa keuntungan Farcaster?",
+      "answers": ["Privasi", "Kecepatan", "Biaya"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a wallet?",
-      "answers": ["Storage", "Bank", "Network"],
+      "question": "Apa itu pengelola kunci?",
+      "answers": ["Security", "Token", "App"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is gas?",
-      "answers": ["Fee", "Fuel", "Coin"],
+      "question": "Apa itu token CAST?",
+      "answers": ["Token", "ID", "Wallet"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Metamask?",
-      "answers": ["Wallet", "App", "Token"],
+      "question": "Bagaimana cara bergabung dengan Farcaster?",
+      "answers": ["Invite", "Beli", "Unduh"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a smart contract?",
-      "answers": ["Code", "Deal", "Server"],
+      "question": "Apa itu feed di Farcaster?",
+      "answers": ["Berita", "Pesan", "File"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is an oracle?",
-      "answers": ["Data", "Node", "App"],
+      "question": "Apa itu pesan pribadi?",
+      "answers": ["Chat", "Email", "Post"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Proof of Work?",
-      "answers": ["Mining", "Storage", "Stake"],
+      "question": "Apa itu Farcaster Hub?",
+      "answers": ["Server", "Aplikasi", "Token"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Proof of Stake?",
-      "answers": ["Consensus", "Trade", "Mint"],
+      "question": "Apa itu integrasi API?",
+      "answers": ["Koneksi", "Aplikasi", "Jaringan"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a blockchain?",
-      "answers": ["Ledger", "Coin", "Token"],
+      "question": "Apa itu protokol terbuka?",
+      "answers": ["Standard", "Kode", "App"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a token?",
-      "answers": ["Asset", "Coin", "Node"],
+      "question": "Apa itu pengguna terverifikasi?",
+      "answers": ["Verif", "Anonim", "Tamu"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a miner?",
-      "answers": ["Validator", "Trader", "User"],
+      "question": "Apa itu aplikasi klien?",
+      "answers": ["App", "Server", "Token"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Web3.js?",
-      "answers": ["Library", "App", "Token"],
+      "question": "Apa tujuan Farcaster?",
+      "answers": ["Terdesent", "Sentral", "Privasi"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is IPFS?",
-      "answers": ["Storage", "Token", "Chain"],
+      "question": "Apa itu social graph?",
+      "answers": ["Jaringan", "Grafis", "Koneksi"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is zk-SNARK?",
-      "answers": ["Privacy", "Token", "Chain"],
+      "question": "Apa itu post di Farcaster?",
+      "answers": ["Konten", "Chat", "File"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Layer 2?",
-      "answers": ["Scaling", "Token", "Storage"],
+      "question": "Bagaimana cara mendapatkan CAST?",
+      "answers": ["Beli", "Tukar", "Pinjam"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is sharding?",
-      "answers": ["Scaling", "Minting", "Trading"],
+      "question": "Apa itu identitas digital?",
+      "answers": ["ID", "App", "Token"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a hash?",
-      "answers": ["Digest", "Node", "Token"],
+      "question": "Apa itu integritas data?",
+      "answers": ["Akurat", "Cepat", "Murah"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is gas limit?",
-      "answers": ["Max fee", "Storage", "Coin"],
+      "question": "Apa itu node di Farcaster?",
+      "answers": ["Komputer", "Token", "App"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is EVM?",
-      "answers": ["Machine", "Coin", "Token"],
+      "question": "Apa itu post terbuka?",
+      "answers": ["Publik", "Privat", "Rahasia"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a node?",
-      "answers": ["Computer", "Coin", "Wallet"],
+      "question": "Apa itu repositori di Farcaster?",
+      "answers": ["Tempat", "Token", "Wallet"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is decentralization?",
-      "answers": ["No center", "Control", "Trade"],
+      "question": "Apa itu notifikasi di Farcaster?",
+      "answers": ["Alert", "Email", "SMS"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is consensus?",
-      "answers": ["Agreement", "Coin", "Mint"],
+      "question": "Apa itu privasi data?",
+      "answers": ["Keamanan", "Publik", "Anonim"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a ledger?",
-      "answers": ["Record", "Coin", "Wallet"],
+      "question": "Apa itu enkripsi?",
+      "answers": ["Keamanan", "Token", "ID"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Apa itu jaringan terdesentralisasi?",
+      "answers": ["Jaringan", "Sentral", "Tunggal"],
       "correctAnswerIndex": 0
     }
   ]
