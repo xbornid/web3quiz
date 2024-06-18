@@ -1,34 +1,155 @@
-    "shortDescription": "ANIME Quiz by @xbornid",
-    "questions": [
-        {"question": "What is Naruto?", "answers": ["Anime", "Manga", "Game"], "correctAnswerIndex": 0},
-        {"question": "Who is Goku?", "answers": ["Saiyan", "Ninja", "Pirate"], "correctAnswerIndex": 0},
-        {"question": "Where is Totoro?", "answers": ["Forest", "City", "Desert"], "correctAnswerIndex": 0},
-        {"question": "What is One Piece?", "answers": ["Treasure", "Weapon", "Ship"], "correctAnswerIndex": 0},
-        {"question": "Who is Pikachu?", "answers": ["Pokemon", "Digimon", "Robot"], "correctAnswerIndex": 0},
-        {"question": "Where is Akira set?", "answers": ["Tokyo", "Osaka", "Kyoto"], "correctAnswerIndex": 0},
-        {"question": "Who is Luffy?", "answers": ["Pirate", "Ninja", "Samurai"], "correctAnswerIndex": 0},
-        {"question": "What is Bleach?", "answers": ["Anime", "Drink", "Game"], "correctAnswerIndex": 0},
-        {"question": "Who is Sailor Moon?", "answers": ["Hero", "Villain", "Teacher"], "correctAnswerIndex": 0},
-        {"question": "What is Spirited Away?", "answers": ["Anime", "Game", "Song"], "correctAnswerIndex": 0},
-        {"question": "Who is Inuyasha?", "answers": ["Demon", "Human", "Robot"], "correctAnswerIndex": 0},
-        {"question": "Where is Dragon Ball set?", "answers": ["Earth", "Mars", "Venus"], "correctAnswerIndex": 0},
-        {"question": "Who is Edward Elric?", "answers": ["Alchemist", "Wizard", "Knight"], "correctAnswerIndex": 0},
-        {"question": "What is Neon Genesis?", "answers": ["Anime", "Book", "Game"], "correctAnswerIndex": 0},
-        {"question": "Who is Light Yagami?", "answers": ["Student", "Teacher", "Doctor"], "correctAnswerIndex": 0},
-        {"question": "Where is Attack on Titan?", "answers": ["Wall", "City", "Village"], "correctAnswerIndex": 0},
-        {"question": "Who is Ichigo?", "answers": ["Shinigami", "Pirate", "Saiyan"], "correctAnswerIndex": 0},
-        {"question": "What is Fairy Tail?", "answers": ["Guild", "School", "Family"], "correctAnswerIndex": 0},
-        {"question": "Who is Kenshin?", "answers": ["Samurai", "Ninja", "Mage"], "correctAnswerIndex": 0},
-        {"question": "What is Cowboy Bebop?", "answers": ["Anime", "Game", "Book"], "correctAnswerIndex": 0},
-        {"question": "Who is Natsu?", "answers": ["Mage", "Knight", "Pirate"], "correctAnswerIndex": 0},
-        {"question": "Where is Kiki's Delivery?", "answers": ["City", "Village", "Forest"], "correctAnswerIndex": 0},
-        {"question": "Who is Ash Ketchum?", "answers": ["Trainer", "Pirate", "Ninja"], "correctAnswerIndex": 0},
-        {"question": "What is My Hero Academia?", "answers": ["Anime", "Game", "Song"], "correctAnswerIndex": 0},
-        {"question": "Who is Tanjiro?", "answers": ["Slayer", "Mage", "Ninja"], "correctAnswerIndex": 0},
-        {"question": "What is Tokyo Ghoul?", "answers": ["Anime", "Book", "Game"], "correctAnswerIndex": 0},
-        {"question": "Who is Saitama?", "answers": ["Hero", "Villain", "Teacher"], "correctAnswerIndex": 0},
-        {"question": "Where is Your Name?", "answers": ["Tokyo", "Osaka", "Nagoya"], "correctAnswerIndex": 0},
-        {"question": "What is Demon Slayer?", "answers": ["Anime", "Book", "Game"], "correctAnswerIndex": 0},
-        {"question": "Who is Alphonse?", "answers": ["Brother", "Father", "Uncle"], "correctAnswerIndex": 0}
-    ]
+{
+  "shortDescription": "Anime Quiz by @xbornid",
+  "questions": [
+    {
+      "question": "What is Naruto?",
+      "answers": ["Anime", "Manga", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Goku",
+      "answers": ["Saiyan", "Ninja", "Pirate"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Totoro?",
+      "answers": ["Forest", "City", "Desert"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is One Piece?",
+      "answers": ["Treasure", "Weapon", "Ship"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Pikachu?",
+      "answers": ["Pokemon", "Digimon", "Robot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Akira set?",
+      "answers": ["Tokyo", "Osaka", "Kyoto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Luffy?",
+      "answers": ["Pirate", "Ninja", "Samurai"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Bleach?",
+      "answers": ["Anime", "Drink", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Sailor Moon?",
+      "answers": ["Hero", "Villain", "Teacher"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Spirited Away?",
+      "answers": ["Anime", "Game", "Song"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Inuyasha?",
+      "answers": ["Demon", "Human", "Robot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Dragon Ball set?",
+      "answers": ["Earth", "Mars", "Venus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Edward Elric?",
+      "answers": ["Alchemist", "Wizard", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Neon Genesis?",
+      "answers": ["Anime", "Book", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Light Yagami?",
+      "answers": ["Student", "Teacher", "Doctor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Attack on Titan?",
+      "answers": ["Wall", "City", "Village"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ichigo?",
+      "answers": ["Shinigami", "Pirate", "Saiyan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Fairy Tail?",
+      "answers": ["Guild", "School", "Family"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Kenshin?",
+      "answers": ["Samurai", "Ninja", "Mage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Cowboy Bebop?",
+      "answers": ["Anime", "Game", "Book"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Natsu?",
+      "answers": ["Mage", "Knight", "Pirate"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Kiki's Delivery?",
+      "answers": ["City", "Village", "Forest"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ash Ketchum?",
+      "answers": ["Trainer", "Pirate", "Ninja"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is My Hero Academia?",
+      "answers": ["Anime", "Game", "Song"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Tanjiro?",
+      "answers": ["Slayer", "Mage", "Ninja"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Tokyo Ghoul?",
+      "answers": ["Anime", "Book", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Saitama?",
+      "answers": ["Hero", "Villain", "Teacher"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Your Name?",
+      "answers": ["Tokyo", "Osaka", "Nagoya"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Demon Slayer?",
+      "answers": ["Anime", "Book", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Alphonse?",
+      "answers": ["Brother", "Father", "Uncle"],
+      "correctAnswerIndex": 0
+    }
+  ]
 }
