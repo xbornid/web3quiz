@@ -1,154 +1,274 @@
 {
-  "shortDescription": "ANIME Quiz by @xbornid",
+  "shortDescription": "MARVEL Universe Quiz by @xbornid",
   "questions": [
     {
-      "question": "What is Naruto?",
-      "answers": ["Anime", "Manga", "Game"],
+      "question": "Who is Iron Man?",
+      "answers": [
+        "Stark",
+        "Banner",
+        "Parker"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Goku",
-      "answers": ["Saiyan", "Ninja", "Pirate"],
+      "question": "Who is Thor's father?",
+      "answers": [
+        "Odin",
+        "Loki",
+        "Heimdall"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Where is Totoro?",
-      "answers": ["Forest", "City", "Desert"],
+      "question": "What is Spider-Man's real name?",
+      "answers": [
+        "Parker",
+        "Stark",
+        "Rogers"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is One Piece?",
-      "answers": ["Treasure", "Weapon", "Ship"],
+      "question": "Who leads the Avengers?",
+      "answers": [
+        "Rogers",
+        "Stark",
+        "Thor"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Pikachu?",
-      "answers": ["Pokemon", "Digimon", "Robot"],
+      "question": "What is Captain America's shield made of?",
+      "answers": [
+        "Vibranium",
+        "Iron",
+        "Gold"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Where is Akira set?",
-      "answers": ["Tokyo", "Osaka", "Kyoto"],
+      "question": "Who is Black Panther?",
+      "answers": [
+        "T'Challa",
+        "Thanos",
+        "Ultron"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Luffy?",
-      "answers": ["Pirate", "Ninja", "Samurai"],
+      "question": "What is Hulk's real name?",
+      "answers": [
+        "Banner",
+        "Stark",
+        "Parker"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Bleach?",
-      "answers": ["Anime", "Drink", "Game"],
+      "question": "Who is Thor's brother?",
+      "answers": [
+        "Loki",
+        "Odin",
+        "Heimdall"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Sailor Moon?",
-      "answers": ["Hero", "Villain", "Teacher"],
+      "question": "What is Iron Man's AI called?",
+      "answers": [
+        "Jarvis",
+        "Ultron",
+        "Friday"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Spirited Away?",
-      "answers": ["Anime", "Game", "Song"],
+      "question": "Who is the Scarlet Witch?",
+      "answers": [
+        "Wanda",
+        "Natasha",
+        "Carol"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Inuyasha?",
-      "answers": ["Demon", "Human", "Robot"],
+      "question": "Who is Vision's creator?",
+      "answers": [
+        "Stark",
+        "Banner",
+        "Thor"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Where is Dragon Ball set?",
-      "answers": ["Earth", "Mars", "Venus"],
+      "question": "What is Doctor Strange's title?",
+      "answers": [
+        "Sorcerer",
+        "Warrior",
+        "King"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Edward Elric?",
-      "answers": ["Alchemist", "Wizard", "Knight"],
+      "question": "What is Thanos' goal?",
+      "answers": [
+        "Balance",
+        "Power",
+        "Chaos"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Neon Genesis?",
-      "answers": ["Anime", "Book", "Game"],
+      "question": "What is the Black Widow's real name?",
+      "answers": [
+        "Natasha",
+        "Wanda",
+        "Carol"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Light Yagami?",
-      "answers": ["Student", "Teacher", "Doctor"],
+      "question": "Who is Ant-Man?",
+      "answers": [
+        "Lang",
+        "Stark",
+        "Banner"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Where is Attack on Titan?",
-      "answers": ["Wall", "City", "Village"],
+      "question": "What is the Guardians' ship called?",
+      "answers": [
+        "Milano",
+        "Avenjet",
+        "Benatar"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Ichigo?",
-      "answers": ["Shinigami", "Pirate", "Saiyan"],
+      "question": "Who is Star-Lord's father?",
+      "answers": [
+        "Ego",
+        "Odin",
+        "Thanos"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Fairy Tail?",
-      "answers": ["Guild", "School", "Family"],
+      "question": "What is Rocket's species?",
+      "answers": [
+        "Raccoon",
+        "Squirrel",
+        "Cat"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Kenshin?",
-      "answers": ["Samurai", "Ninja", "Mage"],
+      "question": "Who is Gamora's sister?",
+      "answers": [
+        "Nebula",
+        "Wanda",
+        "Natasha"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Cowboy Bebop?",
-      "answers": ["Anime", "Game", "Book"],
+      "question": "Who is the Winter Soldier?",
+      "answers": [
+        "Barnes",
+        "Stark",
+        "Parker"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Natsu?",
-      "answers": ["Mage", "Knight", "Pirate"],
+      "question": "What is the name of Thor's hammer?",
+      "answers": [
+        "Mjolnir",
+        "Stormbreaker",
+        "Gungnir"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Where is Kiki's Delivery?",
-      "answers": ["City", "Village", "Forest"],
+      "question": "Who is the Falcon?",
+      "answers": [
+        "Wilson",
+        "Stark",
+        "Rogers"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Ash Ketchum?",
-      "answers": ["Trainer", "Pirate", "Ninja"],
+      "question": "Who created Ultron?",
+      "answers": [
+        "Stark",
+        "Thor",
+        "Banner"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is My Hero Academia?",
-      "answers": ["Anime", "Game", "Song"],
+      "question": "What is Hawkeye's real name?",
+      "answers": [
+        "Clint",
+        "Steve",
+        "Scott"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Tanjiro?",
-      "answers": ["Slayer", "Mage", "Ninja"],
+      "question": "Who is the Wasp?",
+      "answers": [
+        "Hope",
+        "Natasha",
+        "Wanda"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Tokyo Ghoul?",
-      "answers": ["Anime", "Book", "Game"],
+      "question": "Who is the Sorcerer Supreme?",
+      "answers": [
+        "Strange",
+        "Thor",
+        "Loki"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Saitama?",
-      "answers": ["Hero", "Villain", "Teacher"],
+      "question": "Who is the leader of Wakanda?",
+      "answers": [
+        "T'Challa",
+        "Thanos",
+        "Loki"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Where is Your Name?",
-      "answers": ["Tokyo", "Osaka", "Nagoya"],
+      "question": "What is Deadpool's real name?",
+      "answers": [
+        "Wade",
+        "Logan",
+        "Peter"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Demon Slayer?",
-      "answers": ["Anime", "Book", "Game"],
+      "question": "Who is the God of Mischief?",
+      "answers": [
+        "Loki",
+        "Thor",
+        "Odin"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Alphonse?",
-      "answers": ["Brother", "Father", "Uncle"],
+      "question": "Who is Captain Marvel?",
+      "answers": [
+        "Carol",
+        "Natasha",
+        "Wanda"
+      ],
       "correctAnswerIndex": 0
     }
   ]
