@@ -23,15 +23,15 @@ export const app = new Frog({
 app.frame('/', async c => {
   const { appTitle } = await configureApp(app, c, 'appAuthUrl')
 
-  const intents = [<Button action="/next">⭐ Start</Button>]
+  const intents = [<Button action="/next">🕹️ Play Game</Button>]
 
   return c.res({
     title: appTitle,
     image: (
-      <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
+      <Box grow alignVertical="center" backgroundColor="purple" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
-            Quiz time!
+          <Heading color="h2Text" align="center" size="64">
+            💸 GET REWARD!
           </Heading>
 
           <Text align="center" size="18">
@@ -77,9 +77,9 @@ app.frame('/next', async c => {
   return c.res({
     title: appTitle,
     image: (
-      <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
+      <Box grow alignVertical="center" backgroundColor="purple" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h2Text" align="center" size="64">
             {quiz.questions[questionIndex].question}
           </Heading>
           <Text align="center" size="18">
@@ -116,12 +116,12 @@ app.frame('/result', async c => {
       <Box
         grow
         alignVertical="center"
-        backgroundColor="white"
+        backgroundColor="purple"
         padding="32"
         border={isWin ? BORDER_SUCCESS : BORDER_FAIL}
       >
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="48">
+          <Heading color="h2Text" align="center" size="48">
             {resultText}
           </Heading>
           <Text align="center" size="24">
@@ -205,9 +205,9 @@ app.frame('/authorize', async c => {
   return c.res({
     title: appTitle,
     image: (
-      <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
+      <Box grow alignVertical="center" backgroundColor="purple" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="48">
+          <Heading color="h2Text" align="center" size="48">
             {errorText && 'Error'}
             {!errorText && text}
           </Heading>
@@ -242,9 +242,9 @@ app.frame('/answers', async c => {
   return c.res({
     title: appTitle,
     image: (
-      <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
+      <Box grow alignVertical="center" backgroundColor="purple" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h2Text" align="center" size="64">
             {quiz.questions[questionIndex].question}
           </Heading>
 
