@@ -30,7 +30,7 @@ app.frame('/', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h10Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="64">
             💸 GET REWARD!
           </Heading>
 
@@ -79,7 +79,7 @@ app.frame('/next', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h10Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="64">
             {quiz.questions[questionIndex].question}
           </Heading>
           <Text align="center" size="18">
@@ -121,7 +121,7 @@ app.frame('/result', async c => {
         border={isWin ? BORDER_SUCCESS : BORDER_FAIL}
       >
         <VStack gap="4">
-          <Heading color="h10Text" align="center" size="48">
+          <Heading color="h1Text" align="center" size="48">
             {resultText}
           </Heading>
           <Text align="center" size="24">
@@ -207,7 +207,7 @@ app.frame('/authorize', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h10Text" align="center" size="48">
+          <Heading color="h1Text" align="center" size="48">
             {errorText && 'Error'}
             {!errorText && text}
           </Heading>
@@ -244,7 +244,7 @@ app.frame('/answers', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h10Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="64">
             {quiz.questions[questionIndex].question}
           </Heading>
 
