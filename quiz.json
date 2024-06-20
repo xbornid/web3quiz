@@ -1,274 +1,154 @@
 {
-  "shortDescription": "MARVEL Universe Quiz by @xbornid",
+  "shortDescription": "POKEMON QUIZ by @xbornid",
   "questions": [
     {
-      "question": "Who is Iron Man?",
-      "answers": [
-        "Stark",
-        "Banner",
-        "Parker"
-      ],
+      "question": "Who is Pikachu?",
+      "answers": ["Mouse", "Cat", "Dog"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Thor's father?",
-      "answers": [
-        "Odin",
-        "Loki",
-        "Heimdall"
-      ],
+      "question": "What type is Charizard?",
+      "answers": ["Fire", "Water", "Grass"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Spider-Man's real name?",
-      "answers": [
-        "Parker",
-        "Stark",
-        "Rogers"
-      ],
+      "question": "What evolves into Raichu?",
+      "answers": ["Pikachu", "Bulbasaur", "Charmander"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who leads the Avengers?",
-      "answers": [
-        "Rogers",
-        "Stark",
-        "Thor"
-      ],
+      "question": "What is Ash's goal?",
+      "answers": ["Master", "Trainer", "Breeder"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Captain America's shield made of?",
-      "answers": [
-        "Vibranium",
-        "Iron",
-        "Gold"
-      ],
+      "question": "Who is the Water-type?",
+      "answers": ["Squirtle", "Charizard", "Pikachu"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Black Panther?",
-      "answers": [
-        "T'Challa",
-        "Thanos",
-        "Ultron"
-      ],
+      "question": "Who is Team Rocket?",
+      "answers": ["Villains", "Heroes", "Trainers"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Hulk's real name?",
-      "answers": [
-        "Banner",
-        "Stark",
-        "Parker"
-      ],
+      "question": "What is Bulbasaur?",
+      "answers": ["Seed", "Lizard", "Mouse"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Thor's brother?",
-      "answers": [
-        "Loki",
-        "Odin",
-        "Heimdall"
-      ],
+      "question": "What type is Jigglypuff?",
+      "answers": ["Fairy", "Fire", "Water"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Iron Man's AI called?",
-      "answers": [
-        "Jarvis",
-        "Ultron",
-        "Friday"
-      ],
+      "question": "Who is Misty?",
+      "answers": ["Trainer", "Breeder", "Master"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Scarlet Witch?",
-      "answers": [
-        "Wanda",
-        "Natasha",
-        "Carol"
-      ],
+      "question": "What is Pokedex?",
+      "answers": ["Encyclopedia", "Game", "Card"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Vision's creator?",
-      "answers": [
-        "Stark",
-        "Banner",
-        "Thor"
-      ],
+      "question": "Who is Brock?",
+      "answers": ["Gym", "Rocket", "Trainer"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Doctor Strange's title?",
-      "answers": [
-        "Sorcerer",
-        "Warrior",
-        "King"
-      ],
+      "question": "What evolves into Butterfree?",
+      "answers": ["Caterpie", "Weedle", "Pidgey"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Thanos' goal?",
-      "answers": [
-        "Balance",
-        "Power",
-        "Chaos"
-      ],
+      "question": "Who is Eevee?",
+      "answers": ["Pokemon", "Trainer", "Master"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is the Black Widow's real name?",
-      "answers": [
-        "Natasha",
-        "Wanda",
-        "Carol"
-      ],
+      "question": "What type is Snorlax?",
+      "answers": ["Normal", "Fire", "Grass"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Ant-Man?",
-      "answers": [
-        "Lang",
-        "Stark",
-        "Banner"
-      ],
+      "question": "What evolves from Magikarp?",
+      "answers": ["Gyarados", "Eevee", "Onix"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is the Guardians' ship called?",
-      "answers": [
-        "Milano",
-        "Avenjet",
-        "Benatar"
-      ],
+      "question": "Who is Professor Oak?",
+      "answers": ["Professor", "Trainer", "Villain"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Star-Lord's father?",
-      "answers": [
-        "Ego",
-        "Odin",
-        "Thanos"
-      ],
+      "question": "What is Legendary?",
+      "answers": ["Rare", "Common", "Weak"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Rocket's species?",
-      "answers": [
-        "Raccoon",
-        "Squirrel",
-        "Cat"
-      ],
+      "question": "What type is Gengar?",
+      "answers": ["Ghost", "Fire", "Water"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Gamora's sister?",
-      "answers": [
-        "Nebula",
-        "Wanda",
-        "Natasha"
-      ],
+      "question": "Who is Jessie?",
+      "answers": ["Rocket", "Trainer", "Gym"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Winter Soldier?",
-      "answers": [
-        "Barnes",
-        "Stark",
-        "Parker"
-      ],
+      "question": "Who is Meowth?",
+      "answers": ["Cat", "Dog", "Mouse"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is the name of Thor's hammer?",
-      "answers": [
-        "Mjolnir",
-        "Stormbreaker",
-        "Gungnir"
-      ],
+      "question": "What is Ditto?",
+      "answers": ["Copy", "Train", "Battle"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Falcon?",
-      "answers": [
-        "Wilson",
-        "Stark",
-        "Rogers"
-      ],
+      "question": "What type is Vaporeon?",
+      "answers": ["Water", "Fire", "Grass"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who created Ultron?",
-      "answers": [
-        "Stark",
-        "Thor",
-        "Banner"
-      ],
+      "question": "Who is James?",
+      "answers": ["Rocket", "Trainer", "Gym"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Hawkeye's real name?",
-      "answers": [
-        "Clint",
-        "Steve",
-        "Scott"
-      ],
+      "question": "What type is Jolteon?",
+      "answers": ["Electric", "Fire", "Water"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Wasp?",
-      "answers": [
-        "Hope",
-        "Natasha",
-        "Wanda"
-      ],
+      "question": "What type is Flareon?",
+      "answers": ["Fire", "Water", "Grass"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Sorcerer Supreme?",
-      "answers": [
-        "Strange",
-        "Thor",
-        "Loki"
-      ],
+      "question": "Who is Mewtwo?",
+      "answers": ["Clone", "Trainer", "Gym"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the leader of Wakanda?",
-      "answers": [
-        "T'Challa",
-        "Thanos",
-        "Loki"
-      ],
+      "question": "What evolves from Eevee?",
+      "answers": ["Flareon", "Pikachu", "Snorlax"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Deadpool's real name?",
-      "answers": [
-        "Wade",
-        "Logan",
-        "Peter"
-      ],
+      "question": "Who is Gary?",
+      "answers": ["Rival", "Friend", "Rocket"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the God of Mischief?",
-      "answers": [
-        "Loki",
-        "Thor",
-        "Odin"
-      ],
+      "question": "What type is Lapras?",
+      "answers": ["Water", "Fire", "Grass"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Captain Marvel?",
-      "answers": [
-        "Carol",
-        "Natasha",
-        "Wanda"
-      ],
+      "question": "Who is Togepi?",
+      "answers": ["Egg", "Trainer", "Gym"],
       "correctAnswerIndex": 0
     }
   ]
