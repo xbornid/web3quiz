@@ -1,155 +1,273 @@
 {
-  "shortDescription": "Quantum Physics Quiz by @xbornid",
+  "shortDescription": "NARUTO QUIZ by @xbornid.",
   "questions": [
     {
-      "question": "What is a qubit?",
-      "answers": ["Bit", "Atom", "Qubit"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "Who proposed wave-particle duality?",
-      "answers": ["Einstein", "Bohr", "de Broglie"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is superposition?",
-      "answers": ["Overlap", "Spin", "Entangle"],
+      "question": "Who is Naruto's father?",
+      "answers": [
+        "Minato",
+        "Sasuke",
+        "Itachi"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What does the uncertainty principle state?",
-      "answers": ["Exact", "Uncertain", "Probable"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "Who is the father of quantum mechanics?",
-      "answers": ["Heisenberg", "Planck", "Einstein"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is quantum entanglement?",
-      "answers": ["Separate", "Connected", "Random"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is Schrödinger's cat?",
-      "answers": ["Paradox", "Theorem", "Law"],
+      "question": "What is Sasuke's clan?",
+      "answers": [
+        "Uchiha",
+        "Hyuga",
+        "Nara"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a photon?",
-      "answers": ["Particle", "Wave", "Both"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is Planck's constant?",
-      "answers": ["Variable", "Fixed", "Random"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is a wavefunction?",
-      "answers": ["Vector", "Function", "Matrix"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is a quantum state?",
-      "answers": ["Fixed", "Changeable", "Discrete"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is quantum tunneling?",
-      "answers": ["Barrier", "Tunnel", "Jump"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "Who developed the uncertainty principle?",
-      "answers": ["Bohr", "Heisenberg", "Feynman"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is a quantum leap?",
-      "answers": ["Shift", "Jump", "Move"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is the Pauli exclusion principle?",
-      "answers": ["Overlap", "Exclude", "Include"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is quantum decoherence?",
-      "answers": ["Maintain", "Lose", "Gain"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is a boson?",
-      "answers": ["Fermion", "Particle", "Wave"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is the speed of light?",
-      "answers": ["Constant", "Variable", "Fixed"],
+      "question": "What village is Naruto from?",
+      "answers": [
+        "Leaf",
+        "Sand",
+        "Mist"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who formulated the wave equation?",
-      "answers": ["Planck", "Schrödinger", "Einstein"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is an electron?",
-      "answers": ["Proton", "Neutron", "Particle"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is the principle of complementarity?",
-      "answers": ["Same", "Opposite", "Complement"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is the Heisenberg principle?",
-      "answers": ["Certainty", "Uncertainty", "Probability"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is a fermion?",
-      "answers": ["Particle", "Wave", "Energy"],
+      "question": "Who is the first Hokage?",
+      "answers": [
+        "Hashirama",
+        "Tobirama",
+        "Hiruzen"
+      ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is the wave-particle duality?",
-      "answers": ["Particle", "Wave", "Both"],
-      "correctAnswerIndex": 2
+      "question": "What is Sakura's last name?",
+      "answers": [
+        "Haruno",
+        "Uzumaki",
+        "Inuzuka"
+      ],
+      "correctAnswerIndex": 0
     },
     {
-      "question": "What is quantum entanglement?",
-      "answers": ["Separate", "Connected", "Random"],
-      "correctAnswerIndex": 1
+      "question": "What is Naruto's dream?",
+      "answers": [
+        "Hokage",
+        "Sage",
+        "Rogue"
+      ],
+      "correctAnswerIndex": 0
     },
     {
-      "question": "What is a quantum field?",
-      "answers": ["Space", "Time", "Field"],
-      "correctAnswerIndex": 2
+      "question": "Who is Jiraiya's student?",
+      "answers": [
+        "Naruto",
+        "Gaara",
+        "Neji"
+      ],
+      "correctAnswerIndex": 0
     },
     {
-      "question": "What is the Copenhagen interpretation?",
-      "answers": ["Theory", "Model", "Interpretation"],
-      "correctAnswerIndex": 2
+      "question": "What beast is inside Naruto?",
+      "answers": [
+        "Kurama",
+        "Shukaku",
+        "Gyuki"
+      ],
+      "correctAnswerIndex": 0
     },
     {
-      "question": "What is an atom?",
-      "answers": ["Particle", "Wave", "Both"],
-      "correctAnswerIndex": 2
+      "question": "What is the Sharingan?",
+      "answers": [
+        "Eye",
+        "Weapon",
+        "Village"
+      ],
+      "correctAnswerIndex": 0
     },
     {
-      "question": "What is quantum chromodynamics?",
-      "answers": ["Color", "Spin", "Quark"],
-      "correctAnswerIndex": 2
+      "question": "Who founded Akatsuki?",
+      "answers": [
+        "Nagato",
+        "Madara",
+        "Obito"
+      ],
+      "correctAnswerIndex": 0
     },
     {
-      "question": "What is a quantum dot?",
-      "answers": ["Spot", "Point", "Dot"],
-      "correctAnswerIndex": 2
+      "question": "Who is Itachi's brother?",
+      "answers": [
+        "Sasuke",
+        "Naruto",
+        "Kakashi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Kakashi's nickname?",
+      "answers": [
+        "Copycat",
+        "Hokage",
+        "Tsunade"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Tsunade's teacher?",
+      "answers": [
+        "Hiruzen",
+        "Orochimaru",
+        "Danzo"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gaara's title?",
+      "answers": [
+        "Kazekage",
+        "Hokage",
+        "Raikage"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Orochimaru's goal?",
+      "answers": [
+        "Immortality",
+        "Wealth",
+        "Power"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Naruto's mother?",
+      "answers": [
+        "Kushina",
+        "Hinata",
+        "Sakura"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What team is Naruto in?",
+      "answers": [
+        "Team 7",
+        "Team 8",
+        "Team 9"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Byakugan user?",
+      "answers": [
+        "Neji",
+        "Sasuke",
+        "Rock Lee"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Hinata's clan?",
+      "answers": [
+        "Hyuga",
+        "Akimichi",
+        "Yamanaka"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the 5th Hokage?",
+      "answers": [
+        "Tsunade",
+        "Kakashi",
+        "Danzo"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Shikamaru's IQ?",
+      "answers": [
+        "200",
+        "150",
+        "100"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who killed Jiraiya?",
+      "answers": [
+        "Pain",
+        "Itachi",
+        "Sasuke"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Boruto's relation to Naruto?",
+      "answers": [
+        "Son",
+        "Brother",
+        "Cousin"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the 3rd Hokage?",
+      "answers": [
+        "Hiruzen",
+        "Minato",
+        "Tobirama"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does ANBU stand for?",
+      "answers": [
+        "Black Ops",
+        "Ninja Team",
+        "Special Force"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Please click share to get $DEGEN",
+      "answers": [
+        "Next Quiz",
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Naruto's chakra nature?",
+      "answers": [
+        "Wind",
+        "Fire",
+        "Earth"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the toad sage?",
+      "answers": [
+        "Jiraiya",
+        "Orochimaru",
+        "Nagato"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What clan is Gaara from?",
+      "answers": [
+        "Kazekage",
+        "Hokage",
+        "Raikage"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Rock Lee's specialty?",
+      "answers": [
+        "Taijutsu",
+        "Ninjutsu",
+        "Genjutsu"
+      ],
+      "correctAnswerIndex": 0
     }
   ]
 }
