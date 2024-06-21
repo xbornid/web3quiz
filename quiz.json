@@ -1,155 +1,155 @@
 {
-  "shortDescription": "POKEMON QUIZ by @xbornid",
+  "shortDescription": "Quantum Physics Quiz by @xbornid",
   "questions": [
     {
-      "question": "Who is Pikachu?",
-      "answers": ["Mouse", "Cat", "Dog"],
+      "question": "What is a qubit?",
+      "answers": ["Bit", "Atom", "Qubit"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who proposed wave-particle duality?",
+      "answers": ["Einstein", "Bohr", "de Broglie"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is superposition?",
+      "answers": ["Overlap", "Spin", "Entangle"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What type is Charizard?",
-      "answers": ["Fire", "Water", "Grass"],
+      "question": "What does the uncertainty principle state?",
+      "answers": ["Exact", "Uncertain", "Probable"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who is the father of quantum mechanics?",
+      "answers": ["Heisenberg", "Planck", "Einstein"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is quantum entanglement?",
+      "answers": ["Separate", "Connected", "Random"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Schrödinger's cat?",
+      "answers": ["Paradox", "Theorem", "Law"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What evolves into Raichu?",
-      "answers": ["Pikachu", "Bulbasaur", "Charmander"],
+      "question": "What is a photon?",
+      "answers": ["Particle", "Wave", "Both"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Planck's constant?",
+      "answers": ["Variable", "Fixed", "Random"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a wavefunction?",
+      "answers": ["Vector", "Function", "Matrix"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a quantum state?",
+      "answers": ["Fixed", "Changeable", "Discrete"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is quantum tunneling?",
+      "answers": ["Barrier", "Tunnel", "Jump"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who developed the uncertainty principle?",
+      "answers": ["Bohr", "Heisenberg", "Feynman"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a quantum leap?",
+      "answers": ["Shift", "Jump", "Move"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the Pauli exclusion principle?",
+      "answers": ["Overlap", "Exclude", "Include"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is quantum decoherence?",
+      "answers": ["Maintain", "Lose", "Gain"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a boson?",
+      "answers": ["Fermion", "Particle", "Wave"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the speed of light?",
+      "answers": ["Constant", "Variable", "Fixed"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Ash's goal?",
-      "answers": ["Master", "Trainer", "Breeder"],
+      "question": "Who formulated the wave equation?",
+      "answers": ["Planck", "Schrödinger", "Einstein"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is an electron?",
+      "answers": ["Proton", "Neutron", "Particle"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the principle of complementarity?",
+      "answers": ["Same", "Opposite", "Complement"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the Heisenberg principle?",
+      "answers": ["Certainty", "Uncertainty", "Probability"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a fermion?",
+      "answers": ["Particle", "Wave", "Energy"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Water-type?",
-      "answers": ["Squirtle", "Charizard", "Pikachu"],
-      "correctAnswerIndex": 0
+      "question": "What is the wave-particle duality?",
+      "answers": ["Particle", "Wave", "Both"],
+      "correctAnswerIndex": 2
     },
     {
-      "question": "Who is Team Rocket?",
-      "answers": ["Villains", "Heroes", "Trainers"],
-      "correctAnswerIndex": 0
+      "question": "What is quantum entanglement?",
+      "answers": ["Separate", "Connected", "Random"],
+      "correctAnswerIndex": 1
     },
     {
-      "question": "What is Bulbasaur?",
-      "answers": ["Seed", "Lizard", "Mouse"],
-      "correctAnswerIndex": 0
+      "question": "What is a quantum field?",
+      "answers": ["Space", "Time", "Field"],
+      "correctAnswerIndex": 2
     },
     {
-      "question": "What type is Jigglypuff?",
-      "answers": ["Fairy", "Fire", "Water"],
-      "correctAnswerIndex": 0
+      "question": "What is the Copenhagen interpretation?",
+      "answers": ["Theory", "Model", "Interpretation"],
+      "correctAnswerIndex": 2
     },
     {
-      "question": "Who is Misty?",
-      "answers": ["Trainer", "Breeder", "Master"],
-      "correctAnswerIndex": 0
+      "question": "What is an atom?",
+      "answers": ["Particle", "Wave", "Both"],
+      "correctAnswerIndex": 2
     },
     {
-      "question": "What is Pokedex?",
-      "answers": ["Encyclopedia", "Game", "Card"],
-      "correctAnswerIndex": 0
+      "question": "What is quantum chromodynamics?",
+      "answers": ["Color", "Spin", "Quark"],
+      "correctAnswerIndex": 2
     },
     {
-      "question": "Who is Brock?",
-      "answers": ["Gym", "Rocket", "Trainer"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What evolves into Butterfree?",
-      "answers": ["Caterpie", "Weedle", "Pidgey"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Eevee?",
-      "answers": ["Pokemon", "Trainer", "Master"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What type is Snorlax?",
-      "answers": ["Normal", "Fire", "Grass"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What evolves from Magikarp?",
-      "answers": ["Gyarados", "Eevee", "Onix"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Professor Oak?",
-      "answers": ["Professor", "Trainer", "Villain"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Legendary?",
-      "answers": ["Rare", "Common", "Weak"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What type is Gengar?",
-      "answers": ["Ghost", "Fire", "Water"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Jessie?",
-      "answers": ["Rocket", "Trainer", "Gym"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Meowth?",
-      "answers": ["Cat", "Dog", "Mouse"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Ditto?",
-      "answers": ["Copy", "Train", "Battle"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What type is Vaporeon?",
-      "answers": ["Water", "Fire", "Grass"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is James?",
-      "answers": ["Rocket", "Trainer", "Gym"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What type is Jolteon?",
-      "answers": ["Electric", "Fire", "Water"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What type is Flareon?",
-      "answers": ["Fire", "Water", "Grass"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Mewtwo?",
-      "answers": ["Clone", "Trainer", "Gym"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What evolves from Eevee?",
-      "answers": ["Flareon", "Pikachu", "Snorlax"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Gary?",
-      "answers": ["Rival", "Friend", "Rocket"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What type is Lapras?",
-      "answers": ["Water", "Fire", "Grass"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Togepi?",
-      "answers": ["Egg", "Trainer", "Gym"],
-      "correctAnswerIndex": 0
+      "question": "What is a quantum dot?",
+      "answers": ["Spot", "Point", "Dot"],
+      "correctAnswerIndex": 2
     }
   ]
 }
