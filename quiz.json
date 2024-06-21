@@ -137,6 +137,15 @@
       "correctAnswerIndex": 0
     },
     {
+      "question": "Please click share to get $DEGEN",
+      "answers": [
+        "Next Quiz",
+        "Next Quiz",
+        "Next Quiz"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
       "question": "Who is Naruto's mother?",
       "answers": [
         "Kushina",
@@ -223,15 +232,6 @@
         "Black Ops",
         "Ninja Team",
         "Special Force"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Please click share to get $DEGEN",
-      "answers": [
-        "Next Quiz",
-        "Next Quiz",
-        "Next Quiz"
       ],
       "correctAnswerIndex": 0
     },
