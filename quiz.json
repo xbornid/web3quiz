@@ -146,10 +146,10 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Please click share to get $DEGEN",
+      "question": "Please RECAST to get $DEGEN",
       "answers": [
         "Next Quiz",
-        "Next Quiz",
+        "Done",
         "Next Quiz"
       ],
       "correctAnswerIndex": 0
