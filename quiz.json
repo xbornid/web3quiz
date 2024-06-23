@@ -1,138 +1,147 @@
 {
-  "shortDescription": "NARUTO QUIZ by @xbornid.",
+  "shortDescription": "ONE PIECE Quiz by @xbornid",
   "questions": [
     {
-      "question": "Who is Naruto's father?",
+      "question": "Who is Luffy?",
       "answers": [
-        "Minato",
-        "Sasuke",
-        "Itachi"
+        "Pirate",
+        "Ninja",
+        "Mage"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Sasuke's clan?",
+      "question": "What is Zoro?",
       "answers": [
-        "Uchiha",
-        "Hyuga",
-        "Nara"
+        "Swordsman",
+        "Cook",
+        "Sniper"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What village is Naruto from?",
+      "question": "Nami's role?",
       "answers": [
-        "Leaf",
-        "Sand",
-        "Mist"
+        "Navigator",
+        "Doctor",
+        "Shipwright"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the first Hokage?",
+      "question": "Sanji's job?",
       "answers": [
-        "Hashirama",
-        "Tobirama",
-        "Hiruzen"
+        "Cook",
+        "Captain",
+        "Musician"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Sakura's last name?",
+      "question": "Chopper's role?",
       "answers": [
-        "Haruno",
-        "Uzumaki",
-        "Inuzuka"
+        "Doctor",
+        "Cook",
+        "Navigator"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Naruto's dream?",
+      "question": "Robin's skill?",
       "answers": [
-        "Hokage",
-        "Sage",
-        "Rogue"
+        "Archaeology",
+        "Cooking",
+        "Swordsmanship"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Jiraiya's student?",
+      "question": "Usopp's job?",
       "answers": [
-        "Naruto",
-        "Gaara",
-        "Neji"
+        "Sniper",
+        "Cook",
+        "Doctor"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What beast is inside Naruto?",
+      "question": "Franky's job?",
       "answers": [
-        "Kurama",
-        "Shukaku",
-        "Gyuki"
+        "Shipwright",
+        "Sniper",
+        "Cook"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is the Sharingan?",
+      "question": "Brook's role?",
       "answers": [
-        "Eye",
+        "Musician",
+        "Doctor",
+        "Navigator"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Jinbe's role?",
+      "answers": [
+        "Helmsman",
+        "Cook",
+        "Sniper"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Luffy's goal?",
+      "answers": [
+        "Pirate King",
+        "Ninja Master",
+        "Wizard"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ace?",
+      "answers": [
+        "Luffy's brother",
+        "Luffy's father",
+        "Luffy's uncle"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Devil Fruit?",
+      "answers": [
+        "Gives powers",
+        "Heals",
+        "Cures"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "One Piece?",
+      "answers": [
+        "Treasure",
         "Weapon",
-        "Village"
+        "Island"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who founded Akatsuki?",
+      "question": "Who is Shanks?",
       "answers": [
-        "Nagato",
-        "Madara",
-        "Obito"
+        "Red-Haired",
+        "Blue-Haired",
+        "Green-Haired"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Itachi's brother?",
+      "question": "Zoro's dream?",
       "answers": [
-        "Sasuke",
-        "Naruto",
-        "Kakashi"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Kakashi's nickname?",
-      "answers": [
-        "Copycat",
-        "Hokage",
-        "Tsunade"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Tsunade's teacher?",
-      "answers": [
-        "Hiruzen",
-        "Orochimaru",
-        "Danzo"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Gaara's title?",
-      "answers": [
-        "Kazekage",
-        "Hokage",
-        "Raikage"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Orochimaru's goal?",
-      "answers": [
-        "Immortality",
-        "Wealth",
-        "Power"
+        "Great swordsman",
+        "Best cook",
+        "Top doctor"
       ],
       "correctAnswerIndex": 0
     },
@@ -146,128 +155,119 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Naruto's mother?",
+      "question": "Sanji's dream?",
       "answers": [
-        "Kushina",
-        "Hinata",
-        "Sakura"
+        "All Blue",
+        "Top doctor",
+        "Famous sniper"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What team is Naruto in?",
+      "question": "Chopper's dream?",
       "answers": [
-        "Team 7",
-        "Team 8",
-        "Team 9"
+        "Panacea",
+        "All Blue",
+        "Great swordsman"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the Byakugan user?",
+      "question": "Robin's dream?",
       "answers": [
-        "Neji",
-        "Sasuke",
-        "Rock Lee"
+        "True history",
+        "Best cook",
+        "Great swordsman"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Hinata's clan?",
+      "question": "Franky's dream?",
       "answers": [
-        "Hyuga",
-        "Akimichi",
-        "Yamanaka"
+        "Dream ship",
+        "All Blue",
+        "True history"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the 5th Hokage?",
+      "question": "Brook's dream?",
       "answers": [
-        "Tsunade",
-        "Kakashi",
-        "Danzo"
+        "Laboon",
+        "All Blue",
+        "Top doctor"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Shikamaru's IQ?",
+      "question": "Jinbe's goal?",
       "answers": [
-        "200",
-        "150",
-        "100"
+        "Peace",
+        "All Blue",
+        "Top doctor"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who killed Jiraiya?",
+      "question": "Gol D. Roger?",
       "answers": [
-        "Pain",
-        "Itachi",
-        "Sasuke"
+        "Pirate King",
+        "Ninja Master",
+        "Wizard"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Boruto's relation to Naruto?",
+      "question": "Marine Admiral?",
       "answers": [
-        "Son",
-        "Brother",
-        "Cousin"
+        "Akainu",
+        "Garp",
+        "Dragon"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the 3rd Hokage?",
+      "question": "Straw Hat symbol?",
       "answers": [
-        "Hiruzen",
-        "Minato",
-        "Tobirama"
+        "Jolly Roger",
+        "Skull",
+        "Sword"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What does ANBU stand for?",
+      "question": "Luffy's power?",
       "answers": [
-        "Black Ops",
-        "Ninja Team",
-        "Special Force"
+        "Stretch",
+        "Fly",
+        "Invisible"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Naruto's chakra nature?",
+      "question": "Zoro's swords?",
       "answers": [
-        "Wind",
-        "Fire",
-        "Earth"
+        "Three",
+        "Two",
+        "One"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the toad sage?",
+      "question": "Nico Robin?",
       "answers": [
-        "Jiraiya",
-        "Orochimaru",
-        "Nagato"
+        "Poneglyph",
+        "Shipwright",
+        "Sniper"
       ],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What clan is Gaara from?",
+      "question": "Brook's catchphrase?",
       "answers": [
-        "Kazekage",
-        "Hokage",
-        "Raikage"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Rock Lee's specialty?",
-      "answers": [
-        "Taijutsu",
-        "Ninjutsu",
-        "Genjutsu"
+        "Yohoho",
+        "Ararar",
+        "Hahaha"
       ],
       "correctAnswerIndex": 0
     }
