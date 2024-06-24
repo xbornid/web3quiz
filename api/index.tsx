@@ -31,7 +31,7 @@ app.frame('/', async c => {
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
           <Heading color="h1Text" align="center" size="64">
-            💸 GET $DEGEN!
+            🎭 MASKS QUIZ!
           </Heading>
 
           <Text align="center" size="18">
@@ -52,8 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`Get $DEGEN by @xbornid!🎩 Answer a minimum of 15 questions, then share it on any channel you like (read channel rules)!`)
-  const buttonUrl = `https://warpcast.com/~/compose?text=${message}&embeds[]=${appShareUrl}`
+  const buttonUrl = `https://warpcast.com/xbornid/0xb151de8d&embeds[]=${appShareUrl}`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
     text: item,
@@ -71,7 +70,7 @@ app.frame('/next', async c => {
         </Button>
       )
     }),
-    <Button.Link href={buttonUrl}>🔗 Share</Button.Link>,
+    <Button.Link href={buttonUrl}>ty🎭</Button.Link>,
   ])
 
   return c.res({
