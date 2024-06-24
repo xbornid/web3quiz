@@ -1,5 +1,5 @@
 {
-  "shortDescription": "$MASKS Quiz by @xbornid",
+  "shortDescription": "Test your knowledge of $MASKS by @xbornid",
   "questions": [
     {
       "question": "What type of token is $MASKS?",
@@ -77,7 +77,7 @@
       "correctAnswerIndex": 2
     },
     {
-      "question": "Want tips @xbornid click ty🎭",
+      "question": "Want tips @xbornid click ty 🎭",
       "answers": ["Next", "No", "Done"],
       "correctAnswerIndex": 1
     },
