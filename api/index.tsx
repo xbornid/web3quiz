@@ -34,7 +34,7 @@ app.frame('/', async c => {
             🎭 MASKS QUIZ!
           </Heading>
 
-          <Text align="center" size="18">
+          <Text align="center" size="15">
             {quizData.shortDescription}
           </Text>
         </VStack>
