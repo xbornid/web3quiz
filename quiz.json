@@ -22,7 +22,7 @@
         "correctAnswerIndex": 2
       },
       {
-        "question": "What percentage of $MASKS is allocated to the community AIRDROP?",
+        "question": "Community AIRDROP's $MASKS percentage?",
         "answers": ["50%", "60%", "70%"],
         "correctAnswerIndex": 1
       },
@@ -37,7 +37,7 @@
         "correctAnswerIndex": 1
       },
       {
-        "question": "What percentage of $MASKS is allocated to rewards liquidity providers?",
+        "question": "$MASKS for liquidity providers' rewards percentage?",
         "answers": ["10%", "15%", "20%"],
         "correctAnswerIndex": 1
       },
