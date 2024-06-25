@@ -30,11 +30,11 @@ app.frame('/', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="60">
             🎭 MASKS QUIZ!
           </Heading>
 
-          <Text align="center" size="10">
+          <Text align="center" size="18">
             {quizData.shortDescription}
           </Text>
         </VStack>
@@ -78,10 +78,10 @@ app.frame('/next', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="60">
             {quiz.questions[questionIndex].question}
           </Heading>
-          <Text align="center" size="10">
+          <Text align="center" size="18">
             Question: {questionIndex + 1}/{quiz.questions.length}
           </Text>
         </VStack>
@@ -211,7 +211,7 @@ app.frame('/authorize', async c => {
             {!errorText && text}
           </Heading>
 
-          <Text align="center" size="10">
+          <Text align="center" size="18">
             {errorText && `Error: ${errorText}`}
           </Text>
         </VStack>
@@ -243,14 +243,14 @@ app.frame('/answers', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="60">
             {quiz.questions[questionIndex].question}
           </Heading>
 
           <Text align="center" size="32">
             Answer: {quiz.questions[questionIndex].answers[quiz.questions[questionIndex].correctAnswerIndex]}
           </Text>
-          <Text align="center" size="10">
+          <Text align="center" size="18">
             ID: {questionIndex + 1}/{quiz.questions.length}
           </Text>
         </VStack>
