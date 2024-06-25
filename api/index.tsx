@@ -34,7 +34,7 @@ app.frame('/', async c => {
             🎭 MASKS QUIZ!
           </Heading>
 
-          <Text align="center" size="15">
+          <Text align="center" size="10">
             {quizData.shortDescription}
           </Text>
         </VStack>
@@ -81,7 +81,7 @@ app.frame('/next', async c => {
           <Heading color="h1Text" align="center" size="64">
             {quiz.questions[questionIndex].question}
           </Heading>
-          <Text align="center" size="15">
+          <Text align="center" size="10">
             Question: {questionIndex + 1}/{quiz.questions.length}
           </Text>
         </VStack>
@@ -211,7 +211,7 @@ app.frame('/authorize', async c => {
             {!errorText && text}
           </Heading>
 
-          <Text align="center" size="15">
+          <Text align="center" size="10">
             {errorText && `Error: ${errorText}`}
           </Text>
         </VStack>
@@ -250,7 +250,7 @@ app.frame('/answers', async c => {
           <Text align="center" size="32">
             Answer: {quiz.questions[questionIndex].answers[quiz.questions[questionIndex].correctAnswerIndex]}
           </Text>
-          <Text align="center" size="15">
+          <Text align="center" size="10">
             ID: {questionIndex + 1}/{quiz.questions.length}
           </Text>
         </VStack>
