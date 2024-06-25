@@ -30,7 +30,7 @@ app.frame('/', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="59">
+          <Heading color="h1Text" align="center" size="59,5">
             🎭 MASKS QUIZ!
           </Heading>
 
@@ -78,7 +78,7 @@ app.frame('/next', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="59">
+          <Heading color="h1Text" align="center" size="59,5">
             {quiz.questions[questionIndex].question}
           </Heading>
           <Text align="center" size="18">
@@ -243,7 +243,7 @@ app.frame('/answers', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="59">
+          <Heading color="h1Text" align="center" size="59,5">
             {quiz.questions[questionIndex].question}
           </Heading>
 
