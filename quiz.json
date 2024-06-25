@@ -1,155 +1,156 @@
 {
-  "shortDescription": "Test your knowledge of $MASKS by @xbornid",
-  "questions": [
-    {
-      "question": "What type of token is $MASKS?",
-      "answers": ["ERC-20", "ERC-721", "BEP-20"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "On which network does $MASKS operate?",
-      "answers": ["Ethereum", "Optimism", "Binance"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is the primary use of $MASKS?",
-      "answers": ["Staking", "Tipping", "Voting"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is the total initial issuance of $MASKS tokens?",
-      "answers": ["10B", "15B", "21B"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What percentage of $MASKS is allocated to the community?",
-      "answers": ["50%", "60%", "70%"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "When does the planned inflation rate of 1% start?",
-      "answers": ["2025", "2026", "2027"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How can Farcaster users send a tip?",
-      "answers": ["Link", "Emoji", "Message"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What percentage of $MASKS is allocated to liquidity providers?",
-      "answers": ["10%", "15%", "20%"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How long is the first airdrop distribution period?",
-      "answers": ["2m", "4m", "6m"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a key benefit of using Optimism?",
-      "answers": ["High cost", "Quick tx", "Low sec"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What can users receive from airdrops?",
-      "answers": ["NFTs", "$MASKS", "ETH"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What can $MASKS holders vote on?",
-      "answers": ["Updates", "Listings", "Policies"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is the main feature of $MASKS tipping?",
-      "answers": ["Anon", "Speed", "Cost"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is the symbol of $MASKS?",
-      "answers": ["MASK", "MASKS", "$MASK"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "Where can $MASKS be traded?",
-      "answers": ["DEX", "CEX", "Both"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "Want tips @xbornid click ty 🎭",
-      "answers": ["Next", "No", "Done"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is the reward for liquidity providers?",
-      "answers": ["$MASKS", "ETH", "USDT"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What does $MASKS aim to enhance?",
-      "answers": ["Privacy", "Engagement", "Scalability"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How often is $MASKS distributed?",
-      "answers": ["Daily", "Weekly", "Monthly"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How is $MASKS secured?",
-      "answers": ["PoW", "PoS", "Optimism"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is the governance model of $MASKS?",
-      "answers": ["Central", "Decentral", "Hybrid"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is a unique feature of $MASKS airdrop?",
-      "answers": ["Random", "Predict", "Sched"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What does staking $MASKS provide?",
-      "answers": ["Rewards", "Voting", "Both"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What platform is $MASKS integrated with?",
-      "answers": ["Twitter", "Farcaster", "Facebook"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How can $MASKS improve social media?",
-      "answers": ["Monetiz", "Security", "Interact"],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "What is the emission rate of $MASKS after 2026?",
-      "answers": ["0.5%", "1%", "1.5%"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How is the $MASKS supply controlled?",
-      "answers": ["Smart", "Manual", "Voting"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who can participate in $MASKS governance?",
-      "answers": ["Holders", "Devs", "Traders"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a key benefit of $MASKS tipping?",
-      "answers": ["Privacy", "Visibil", "Profit"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "How can users earn $MASKS?",
-      "answers": ["Staking", "Tipping", "Both"],
-      "correctAnswerIndex": 2
-    }
-  ]
-}
+    "shortDescription": "Test your knowledge of $MASKS by @xbornid",
+    "questions": [
+      {
+        "question": "What type of token is $MASKS?",
+        "answers": ["ERC-20", "ERC-721", "BEP-20"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "On which network does $MASKS operate?",
+        "answers": ["Ethereum", "Optimism", "Binance"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the primary use of $MASKS?",
+        "answers": ["Staking", "Tipping", "Voting"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the total initial issuance of $MASKS tokens?",
+        "answers": ["10B", "15B", "21B"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What percentage of $MASKS is allocated to the community AIRDROP?",
+        "answers": ["50%", "60%", "70%"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "When does the planned inflation rate of 1% start?",
+        "answers": ["2025", "2026", "2027"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How can Farcaster users send a tip?",
+        "answers": ["Link", "Emoji🎭", "Message"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What percentage of $MASKS is allocated to rewards liquidity providers?",
+        "answers": ["10%", "15%", "20%"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How long is the first airdrop distribution period?",
+        "answers": ["2m", "4m", "6m"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is a key benefit of using Optimism?",
+        "answers": ["High cost", "Quick tx", "Low sec"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What can users receive from airdrops?",
+        "answers": ["NFTs", "$MASKS", "ETH"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What can $MASKS holders influence?",
+        "answers": ["Key decisions", "Listings", "Policies"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is the main feature of $MASKS tipping?",
+        "answers": ["Anon", "User-friendly", "Cost"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the ticker of MASKS?",
+        "answers": ["$MASK", "$MASKS", "$MSK"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Where can $MASKS be traded?",
+        "answers": ["DEX", "CEX", "Both"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Who benefits from $MASKS inflation?",
+        "answers": ["Early adopters", "All holders", "Developers"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the reward for liquidity providers?",
+        "answers": ["$MASKS", "ETH", "USDT"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What does $MASKS aim to enhance?",
+        "answers": ["Privacy", "Engagement", "Scalability"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How often is $MASKS distributed?",
+        "answers": ["Daily", "Weekly", "Monthly"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Want tips @xbornid click ty 🎭",
+        "answers": ["Next", "No", "Done"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the governance model of $MASKS?",
+        "answers": ["Centralized", "Decentralized", "Hybrid"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is a unique feature of $MASKS airdrop?",
+        "answers": ["Random", "Predict", "Sched"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Want tips @xbornid click ty 🎭",
+        "answers": ["Next", "No", "Done"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What platform is $MASKS integrated with?",
+        "answers": ["Twitter", "Farcaster", "Facebook"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How can $MASKS improve social media?",
+        "answers": ["Monetiz", "Security", "Interact"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the emission rate of $MASKS after 2026?",
+        "answers": ["0.5%", "1%", "1.5%"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How is the $MASKS supply controlled?",
+        "answers": ["Smart", "Manual", "Voting"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Who can influence $MASKS decisions?",
+        "answers": ["Holders", "Devs", "Traders"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is a key benefit of $MASKS tipping?",
+        "answers": ["Reward", "Visibil", "Profit"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "How can users earn $MASKS?",
+        "answers": ["Holding", "Send Tips", "Receive Tips"],
+        "correctAnswerIndex": 2
+      }
+    ]
+  }
+  
