@@ -52,7 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const buttonUrl = `https://warpcast.com/xbornid/0x5e4c93f0`
+  const buttonUrl = `https://warpcast.com/xbornid/0x7e6f7faa`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
     text: item,
