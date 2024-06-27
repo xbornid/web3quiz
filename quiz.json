@@ -10,6 +10,6 @@
         {"question": "What is the main risk of providing liquidity in a DEX?", "answers": ["Price fluctuation", "Impermanent loss", "Contract hack"], "correctAnswerIndex": 1},
         {"question": "How often are Farther tokens airdropped?", "answers": ["Weekly", "Monthly", "Yearly"], "correctAnswerIndex": 1},
         {"question": "What do liquidity providers with a Warpcast power badge get?", "answers": ["2x Bonus", "3x Bonus", "5x Bonus"], "correctAnswerIndex": 2},
-        {"question": "What percentage of tokens is allocated for liquidity?", "answers": ["10%", "15%", "20%"], "correctAnswerIndex": 1},
+        {"question": "What percentage of tokens is allocated for liquidity?", "answers": ["10%", "15%", "20%"], "correctAnswerIndex": 1}
     ]
 }
