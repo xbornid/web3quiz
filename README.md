@@ -1,5 +1,5 @@
 # Farcaster Quiz
-Published: https://warpcast.com/xbornid/0x15ac3481
+Published: [Warpcast](https://warpcast.com/xbornid/0x15ac3481)
 
 ## Video Tutorial
 
