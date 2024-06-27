@@ -31,7 +31,7 @@ app.frame('/', async c => {
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
           <Heading color="h1Text" align="center" size="60">
-            🎭 MASKS QUIZ!
+            ✨FARTHER QUIZ!
           </Heading>
 
           <Text align="center" size="18">
@@ -52,7 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const buttonUrl = `https://warpcast.com/xbornid/0xb151de8d`
+  const buttonUrl = `https://warpcast.com/xbornid/0x5e4c93f0`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
     text: item,
@@ -70,7 +70,7 @@ app.frame('/next', async c => {
         </Button>
       )
     }),
-    <Button.Link href={buttonUrl}>ty🎭</Button.Link>,
+    <Button.Link href={buttonUrl}>ty✨</Button.Link>,
   ])
 
   return c.res({
