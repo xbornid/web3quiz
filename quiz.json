@@ -3,12 +3,12 @@
     "questions": [
         {"question": "What is Farther?", "answers": ["Token Community", "Social Media", "Blockchain"], "correctAnswerIndex": 0},
         {"question": "What is Farther's goal?", "answers": ["Globalization", "Decentralization", "Commercialization"], "correctAnswerIndex": 1},
-        {"question": "What percentage of Farther tokens is allocated for airdrops?", "answers": ["10%", "25%", "50%"], "correctAnswerIndex": 1},
-        {"question": "When did the Farther airdrop program start?", "answers": ["2022", "2023", "2024"], "correctAnswerIndex": 2},
         {"question": "What is not allowed in the tipping rules?", "answers": ["Self-tipping", "Multiple tips", "Broad distribution"], "correctAnswerIndex": 0},
+        {"question": "When did the Farther airdrop program start?", "answers": ["2022", "2023", "2024"], "correctAnswerIndex": 2},
+        {"question": "How many Farther tokens must be held to be eligible for a tipping allowance?", "answers": ["50,000", "75,000", "100,000"], "correctAnswerIndex": 2},
         {"question": "What is the initial total supply of Farther tokens?", "answers": ["500 million", "1 billion", "2 billion"], "correctAnswerIndex": 1},
-        {"question": "What is one way to earn Farther tokens?", "answers": ["Staking", "Mining", "Evangelizing"], "correctAnswerIndex": 2},
-        {"question": "Which platform is currently supported for Farcaster evangelizing?", "answers": ["Twitter", "Facebook", "Instagram"], "correctAnswerIndex": 0},
+        {"question": "What is the main risk of providing liquidity in a DEX?", "answers": ["Price fluctuation", "Impermanent loss", "Contract hack"], "correctAnswerIndex": 1},
+        {"question": "How often are Farther tokens airdropped?", "answers": ["Weekly", "Monthly", "Yearly"], "correctAnswerIndex": 1},
         {"question": "What do liquidity providers with a Warpcast power badge get?", "answers": ["2x Bonus", "3x Bonus", "5x Bonus"], "correctAnswerIndex": 2},
         {"question": "What percentage of tokens is allocated for liquidity?", "answers": ["10%", "15%", "20%"], "correctAnswerIndex": 1},
     ]
