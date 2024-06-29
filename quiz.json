@@ -1,15 +1,80 @@
 {
-    "shortDescription": "Test your knowledge of $FARTHER by @xbornid",
+    "shortDescription": "Korean Drama Quiz by @xbornid",
     "questions": [
-        {"question": "What is Farther?", "answers": ["Token Community", "Social Media", "Blockchain"], "correctAnswerIndex": 0},
-        {"question": "What is Farther's goal?", "answers": ["Globalization", "Decentralization", "Commercialization"], "correctAnswerIndex": 1},
-        {"question": "What is not allowed in the tipping rules?", "answers": ["Self-tipping", "Multiple tips", "Broad distribution"], "correctAnswerIndex": 0},
-        {"question": "When did the Farther airdrop program start?", "answers": ["2022", "2023", "2024"], "correctAnswerIndex": 2},
-        {"question": "How many Farther tokens must be held to be eligible for a tipping allowance?", "answers": ["50,000", "75,000", "100,000"], "correctAnswerIndex": 2},
-        {"question": "What is the initial total supply of Farther tokens?", "answers": ["500 million", "1 billion", "2 billion"], "correctAnswerIndex": 1},
-        {"question": "What is the main risk of providing liquidity in a DEX?", "answers": ["Price fluctuation", "Impermanent loss", "Contract hack"], "correctAnswerIndex": 1},
-        {"question": "How often are Farther tokens airdropped?", "answers": ["Weekly", "Monthly", "Yearly"], "correctAnswerIndex": 1},
-        {"question": "What do liquidity providers with a Warpcast power badge get?", "answers": ["2x Bonus", "3x Bonus", "5x Bonus"], "correctAnswerIndex": 2},
-        {"question": "What percentage of tokens is allocated for liquidity?", "answers": ["10%", "15%", "25%"], "correctAnswerIndex": 2}
+        {
+            "question": "What is a common theme in K-dramas?",
+            "answers": ["Romance", "Horror", "Sci-Fi"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Which K-drama features a goblin and a high school girl?",
+            "answers": ["Goblin", "Sky", "Train"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is the main setting of 'Itaewon Class'?",
+            "answers": ["Itaewon", "Busan", "Seoul"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who stars as the lead in 'Descendants of the Sun'?",
+            "answers": ["Joong-ki", "Jung-jae", "Woo-bin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Which drama involves a love story in the Joseon era?",
+            "answers": ["Moonlight", "Signal", "Stranger"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What genre is 'Kingdom'?",
+            "answers": ["Horror", "Romance", "Comedy"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who plays the lead role in 'Crash Landing on You'?",
+            "answers": ["Hyun-bin", "Gong Yoo", "Lee Min-ho"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Which drama is based on a webtoon about a mermaid?",
+            "answers": ["Blue Sea", "Dream High", "Love Alarm"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is the profession of the main character in 'Doctors'?",
+            "answers": ["Doctor", "Chef", "Teacher"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Which drama centers on a game developer?",
+            "answers": ["W", "Vagabond", "Memories"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who stars in 'The Heirs' as the male lead?",
+            "answers": ["Min-ho", "Joong-ki", "Hyun-bin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is the genre of 'Stranger'?",
+            "answers": ["Thriller", "Romance", "Comedy"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Which drama involves time travel to solve crimes?",
+            "answers": ["Signal", "Reply", "Tunnel"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who is the lead actress in 'My Love from the Star'?",
+            "answers": ["Ji-hyun", "Hye-kyo", "In-na"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is the setting of 'Hotel Del Luna'?",
+            "answers": ["Hotel", "School", "Office"],
+            "correctAnswerIndex": 0
+        }
     ]
 }
