@@ -1,79 +1,79 @@
 {
-    "shortDescription": "Korean Drama Quiz by @xbornid",
+    "shortDescription": "FOOTBALL Quiz by @xbornid",
     "questions": [
         {
-            "question": "What is a common theme in K-dramas?",
-            "answers": ["Romance", "Horror", "Sci-Fi"],
+            "question": "What is FIFA?",
+            "answers": ["Org", "Game", "League"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Which K-drama features a goblin and a high school girl?",
-            "answers": ["Goblin", "Sky", "Train"],
+            "question": "Who is Messi?",
+            "answers": ["Coach", "Player", "Referee"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Where is Wembley?",
+            "answers": ["UK", "USA", "CAN"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "What is the main setting of 'Itaewon Class'?",
-            "answers": ["Itaewon", "Busan", "Seoul"],
+            "question": "What is La Liga?",
+            "answers": ["Cup", "League", "Match"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Who won WC 2018?",
+            "answers": ["Brazil", "France", "Spain"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "What is VAR?",
+            "answers": ["Rule", "Tech", "Player"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "What is MLS?",
+            "answers": ["Team", "League", "Stadium"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Who is Pele?",
+            "answers": ["Coach", "Player", "Referee"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "What is a hat-trick?",
+            "answers": ["3 goals", "3 fouls", "3 wins"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who stars as the lead in 'Descendants of the Sun'?",
-            "answers": ["Joong-ki", "Jung-jae", "Woo-bin"],
+            "question": "Where is Camp Nou?",
+            "answers": ["Spain", "Italy", "France"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Which drama involves a love story in the Joseon era?",
-            "answers": ["Moonlight", "Signal", "Stranger"],
+            "question": "What is Bundesliga?",
+            "answers": ["League", "Cup", "Team"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "What genre is 'Kingdom'?",
-            "answers": ["Horror", "Romance", "Comedy"],
+            "question": "Who is CR7?",
+            "answers": ["Coach", "Player", "Referee"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "What is Serie A?",
+            "answers": ["League", "Team", "Cup"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who plays the lead role in 'Crash Landing on You'?",
-            "answers": ["Hyun-bin", "Gong Yoo", "Lee Min-ho"],
+            "question": "Who won WC 2014?",
+            "answers": ["Germany", "Brazil", "Argentina"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Which drama is based on a webtoon about a mermaid?",
-            "answers": ["Blue Sea", "Dream High", "Love Alarm"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is the profession of the main character in 'Doctors'?",
-            "answers": ["Doctor", "Chef", "Teacher"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Which drama centers on a game developer?",
-            "answers": ["W", "Vagabond", "Memories"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who stars in 'The Heirs' as the male lead?",
-            "answers": ["Min-ho", "Joong-ki", "Hyun-bin"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is the genre of 'Stranger'?",
-            "answers": ["Thriller", "Romance", "Comedy"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Which drama involves time travel to solve crimes?",
-            "answers": ["Signal", "Reply", "Tunnel"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who is the lead actress in 'My Love from the Star'?",
-            "answers": ["Ji-hyun", "Hye-kyo", "In-na"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is the setting of 'Hotel Del Luna'?",
-            "answers": ["Hotel", "School", "Office"],
+            "question": "What is UEFA?",
+            "answers": ["Org", "Team", "Stadium"],
             "correctAnswerIndex": 0
         }
     ]
