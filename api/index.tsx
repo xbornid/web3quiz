@@ -52,7 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`Get $DEGEN by @xbornid!🎩 Answer a minimum of 10 questions, then share it on any channel you like (read channel rules)!`)
+  const message = encodeURIComponent(`Reward day has been achieved! Wait for the next quiz!`)
   const buttonUrl = `https://warpcast.com/~/compose?text=${message}&embeds[]=${appShareUrl}`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
