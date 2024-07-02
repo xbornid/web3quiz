@@ -2,8 +2,8 @@
     "shortDescription": "FOOTBALL Quiz by @xbornid",
     "questions": [
         {
-            "question": "What is FIFA?",
-            "answers": ["Org", "Game", "League"],
+            "question": "Reward day has been achieved! Wait for the next quiz!",
+            "answers": ["Ok", "Next", "Leave"],
             "correctAnswerIndex": 0
         },
         {
