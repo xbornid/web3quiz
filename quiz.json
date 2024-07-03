@@ -1,80 +1,80 @@
 {
-    "shortDescription": "FOOTBALL Quiz by @xbornid",
-    "questions": [
-        {
-            "question": "Reward day has been achieved! Wait for the next quiz!",
-            "answers": ["Ok", "Next", "Leave"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who is Messi?",
-            "answers": ["Coach", "Player", "Referee"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "Where is Wembley?",
-            "answers": ["UK", "USA", "CAN"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who won WC 2018?",
-            "answers": ["Brazil", "France", "Spain"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "What is VAR?",
-            "answers": ["Rule", "Tech", "Player"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "What is MLS?",
-            "answers": ["Team", "League", "Stadium"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "Who is Pele?",
-            "answers": ["Coach", "Player", "Referee"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "What is a hat-trick?",
-            "answers": ["3 goals", "3 fouls", "3 wins"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Where is Camp Nou?",
-            "answers": ["Spain", "Italy", "France"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is Bundesliga?",
-            "answers": ["League", "Cup", "Team"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Click CLAIM🎩 to get DEGEN",
-            "answers": ["Next", "Done", "Later"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "Who is CR7?",
-            "answers": ["Coach", "Player", "Referee"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "What is Serie A?",
-            "answers": ["League", "Team", "Cup"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who won WC 2014?",
-            "answers": ["Germany", "Brazil", "Argentina"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is UEFA?",
-            "answers": ["Org", "Team", "Stadium"],
-            "correctAnswerIndex": 0
-        }
-    ]
+  "shortDescription": "MUSIC Quiz by @xbornid",
+  "questions": [
+    {
+      "question": "Who sang 'Thriller'?",
+      "answers": ["Jackson", "Madonna", "Prince"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EDM?",
+      "answers": ["Genre", "Song", "Band"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Lady Gaga?",
+      "answers": ["Singer", "Actress", "Dancer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a mixtape?",
+      "answers": ["Album", "Genre", "Song"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Hello'?",
+      "answers": ["Adele", "Swift", "Beyoncé"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Motown?",
+      "answers": ["Label", "Genre", "Band"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is DJ Khaled?",
+      "answers": ["Producer", "Rapper", "Singer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is grunge?",
+      "answers": ["Genre", "Album", "Song"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Bad Guy'?",
+      "answers": ["Eilish", "Grande", "Perry"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a single?",
+      "answers": ["Song", "Album", "Genre"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Click CLAIM🎩 to get DEGEN",
+      "answers": ["Next", "Done", "Later"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is classical?",
+      "answers": ["Genre", "Song", "Band"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Shape of You'?",
+      "answers": ["Sheeran", "Bieber", "Drake"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is punk?",
+      "answers": ["Genre", "Song", "Album"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Taylor Swift?",
+      "answers": ["Singer", "Dancer", "Producer"],
+      "correctAnswerIndex": 0
+    }
+  ]
 }
