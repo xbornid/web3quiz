@@ -52,7 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`Get $ degen by @xbornid! 🎩 Answer at least 10 questions, (... fill in your favorite song link, YouTube, Spotify, Soundcloud, Sound XYZ ...)! Cast on /xbteam!`)
+  const message = encodeURIComponent(`(... fill in your favorite song link, YouTube, Spotify, Soundcloud, Sound XYZ ...)! Cast on /xbteam!`)
   const buttonUrl = `https://warpcast.com/~/compose?text=${message}&embeds[]=${appShareUrl}`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
