@@ -1,80 +1,140 @@
 {
-  "shortDescription": "All About MUSIC Quiz by @xbornid",
-  "questions": [
-    {
-      "question": "Who sang 'Thriller'?",
-      "answers": ["Jackson", "Madonna", "Prince"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is EDM?",
-      "answers": ["Genre", "Song", "Band"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Lady Gaga?",
-      "answers": ["Singer", "Actress", "Dancer"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a mixtape?",
-      "answers": ["Album", "Genre", "Song"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who sang 'Hello'?",
-      "answers": ["Adele", "Swift", "Beyoncé"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Motown?",
-      "answers": ["Label", "Genre", "Band"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is DJ Khaled?",
-      "answers": ["Producer", "Rapper", "Singer"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is grunge?",
-      "answers": ["Genre", "Album", "Song"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who sang 'Bad Guy'?",
-      "answers": ["Eilish", "Grande", "Perry"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a single?",
-      "answers": ["Song", "Album", "Genre"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Click CLAIM🎩 to get DEGEN",
-      "answers": ["Next", "Done", "Later"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "What is classical?",
-      "answers": ["Genre", "Song", "Band"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who sang 'Shape of You'?",
-      "answers": ["Sheeran", "Bieber", "Drake"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is punk?",
-      "answers": ["Genre", "Song", "Album"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is Taylor Swift?",
-      "answers": ["Singer", "Dancer", "Producer"],
-      "correctAnswerIndex": 0
-    }
-  ]
+    "shortDescription": "SUPERHERO Movies Quiz by @xbornid",
+    "questions": [
+        {
+            "question": "Who played Iron Man?",
+            "answers": [
+                "RDJ",
+                "Evans",
+                "Hemsworth"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who directed 'The Dark Knight'?",
+            "answers": [
+                "Nolan",
+                "Whedon",
+                "Russo"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Which year 'Avengers' released?",
+            "answers": [
+                "2010",
+                "2012",
+                "2015"
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "What is Superman's name?",
+            "answers": [
+                "Kent",
+                "Parker",
+                "Stark"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who is Thor's brother?",
+            "answers": [
+                "Loki",
+                "Odin",
+                "Hulk"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Where is Wakanda?",
+            "answers": [
+                "Africa",
+                "Asia",
+                "Europe"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who played Wonder Woman?",
+            "answers": [
+                "Gadot",
+                "Johansson",
+                "Portman"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who is Black Panther?",
+            "answers": [
+                "T'Challa",
+                "Shuri",
+                "M'Baku"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is Batman's car?",
+            "answers": [
+                "Batmobile",
+                "Batwing",
+                "Batboat"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who played Spider-Man (2002)?",
+            "answers": [
+                "Maguire",
+                "Garfield",
+                "Holland"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Click CLAIM🎩 to get DEGEN",
+            "answers": [
+                "Done",
+                "Next",
+                "Later"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is Hulk's real name?",
+            "answers": [
+                "Banner",
+                "Blake",
+                "Parker"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who is Aquaman?",
+            "answers": [
+                "Curry",
+                "Jordan",
+                "Kent"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Where is Asgard?",
+            "answers": [
+                "Space",
+                "Earth",
+                "Underworld"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Who is Captain America?",
+            "answers": [
+                "Rogers",
+                "Barnes",
+                "Stark"
+            ],
+            "correctAnswerIndex": 0
+        }
+    ]
 }
