@@ -52,7 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`Fill in the link to your fav song (spotify, soundcloud, sound xyz, youtube, zora) and cast on /xbteam, tag @xbornid`)
+  const message = encodeURIComponent(`My fav song ... ... ... @xbornid`)
   const buttonUrl = `https://warpcast.com/~/channel/xbteam/compose?text=${message}&embeds[]=${appShareUrl}`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
