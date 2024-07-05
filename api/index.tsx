@@ -52,8 +52,8 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`My fav song ... ... ... @xbornid`)
-  const buttonUrl = `https://warpcast.com/~/channel/xbteam/compose?text=${message}&embeds[]=${appShareUrl}`
+  const message = encodeURIComponent(`Get $DEGEN by @xbornid!🎩 Answer a minimum of 10 questions, then share it on any channel you like (read channel rules)!`)
+  const buttonUrl = `https://warpcast.com/~/compose?text=${message}&embeds[]=${appShareUrl}`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
     text: item,
