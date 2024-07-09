@@ -1,139 +1,79 @@
 {
-    "shortDescription": "SUPERHERO Movies Quiz by @xbornid",
+    "shortDescription": "ANIME Round #2 Quiz by @xbornid",
     "questions": [
         {
-            "question": "Who played Iron Man?",
-            "answers": [
-                "RDJ",
-                "Evans",
-                "Hemsworth"
-            ],
+            "question": "Who is Naruto?",
+            "answers": ["Ninja", "Samurai", "Pirate"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who directed 'The Dark Knight'?",
-            "answers": [
-                "Nolan",
-                "Whedon",
-                "Russo"
-            ],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Which year 'Avengers' released?",
-            "answers": [
-                "2010",
-                "2012",
-                "2015"
-            ],
+            "question": "Dragon Ball is about?",
+            "answers": ["Soccer", "Fighting", "Cooking"],
             "correctAnswerIndex": 1
         },
         {
-            "question": "What is Superman's name?",
-            "answers": [
-                "Kent",
-                "Parker",
-                "Stark"
-            ],
+            "question": "One Piece is about?",
+            "answers": ["Pirates", "Ninjas", "Knights"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who is Thor's brother?",
-            "answers": [
-                "Loki",
-                "Odin",
-                "Hulk"
-            ],
+            "question": "Goku's transformation?",
+            "answers": ["Saiyan", "Titan", "Shinigami"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Where is Wakanda?",
-            "answers": [
-                "Africa",
-                "Asia",
-                "Europe"
-            ],
+            "question": "What is Bleach?",
+            "answers": ["Detergent", "Anime", "Game"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Sailor Moon fights?",
+            "answers": ["Aliens", "Robots", "Monsters"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Attack on Titan?",
+            "answers": ["Giants", "Dragons", "Aliens"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who played Wonder Woman?",
-            "answers": [
-                "Gadot",
-                "Johansson",
-                "Portman"
-            ],
+            "question": "Pokémon are?",
+            "answers": ["Aliens", "Animals", "Monsters"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Death Note is a?",
+            "answers": ["Notebook", "Sword", "Shield"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who is Black Panther?",
-            "answers": [
-                "T'Challa",
-                "Shuri",
-                "M'Baku"
-            ],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is Batman's car?",
-            "answers": [
-                "Batmobile",
-                "Batwing",
-                "Batboat"
-            ],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who played Spider-Man (2002)?",
-            "answers": [
-                "Maguire",
-                "Garfield",
-                "Holland"
-            ],
+            "question": "Who is Ash's first Pokémon?",
+            "answers": ["Pikachu", "Charizard", "Bulbasaur"],
             "correctAnswerIndex": 0
         },
         {
             "question": "Click CLAIM🎩 to get DEGEN",
-            "answers": [
-                "Done",
-                "Next",
-                "Later"
-            ],
+            "answers": ["Done", "Next", "Later"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "What is Hulk's real name?",
-            "answers": [
-                "Banner",
-                "Blake",
-                "Parker"
-            ],
+            "question": "Light Yagami's alias?",
+            "answers": ["Kira", "L", "Misa"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who is Aquaman?",
-            "answers": [
-                "Curry",
-                "Jordan",
-                "Kent"
-            ],
+            "question": "Naruto's goal?",
+            "answers": ["Hokage", "Pirate King", "Champion"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Where is Asgard?",
-            "answers": [
-                "Space",
-                "Earth",
-                "Underworld"
-            ],
+            "question": "Elric brothers' quest?",
+            "answers": ["Philosopher's Stone", "Dragon Balls", "One Piece"],
             "correctAnswerIndex": 0
         },
         {
-            "question": "Who is Captain America?",
-            "answers": [
-                "Rogers",
-                "Barnes",
-                "Stark"
-            ],
+            "question": "Sword Art Online is?",
+            "answers": ["MMORPG", "FPS", "RPG"],
             "correctAnswerIndex": 0
         }
     ]
