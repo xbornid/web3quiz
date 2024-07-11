@@ -2,8 +2,8 @@
     "shortDescription": "ANIME Round #2 Quiz by @xbornid",
     "questions": [
         {
-            "question": "Who is Naruto?",
-            "answers": ["Ninja", "Samurai", "Pirate"],
+            "question": "Today's reward is empty.",
+            "answers": ["Next", "Done", "Close"],
             "correctAnswerIndex": 0
         },
         {
