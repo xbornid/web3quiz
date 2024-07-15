@@ -47,7 +47,7 @@
       "correctAnswerIndex": 1
     },
     {
-      "question": "Siapa yang akan mengintegrasikan Moxie ke semua aspek operasionalnya?",
+      "question": "Siapa yang mengintegrasikan Moxie ke semua aspek?",
       "answers": [
         "Airstack",
         "Ethereum",
@@ -56,7 +56,7 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Berapa lama periode penguncian token untuk tim inti Moxie?",
+      "question": "Berapa lama penguncian token tim inti Moxie??",
       "answers": [
         "12 bulan",
         "24 bulan",
@@ -83,7 +83,7 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Apa yang diberikan oleh program penghargaan harian Moxie Protocol?",
+      "question": "Apa hadiah dari penghargaan harian Moxie Protocol?",
       "answers": [
         "Insentif pengguna",
         "Token gratis",
@@ -101,7 +101,7 @@
       "correctAnswerIndex": 1
     },
     {
-      "question": "Apa yang digunakan Moxie Protocol untuk mengelola operasional?",
+      "question": "Pengelolaan operasional Moxie Protocol?",
       "answers": [
         "Smart Contract",
         "Manual",
@@ -110,7 +110,7 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Apa yang disediakan Moxie Protocol untuk memantau kinerja ekosistem?",
+      "question": "Pemantauan kinerja ekosistem oleh Moxie Protocol?",
       "answers": [
         "Dashboard",
         "Laporan",
@@ -119,7 +119,7 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Apa fokus utama dari pengalaman pengguna Moxie Protocol?",
+      "question": "Fokus utama pengalaman pengguna di Moxie Protocol?",
       "answers": [
         "Interaksi menyenangkan",
         "Trading",
