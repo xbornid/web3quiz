@@ -1,80 +1,140 @@
 {
-    "shortDescription": "ANIME Round #2 Quiz by @xbornid",
-    "questions": [
-        {
-            "question": "Today's reward is empty.",
-            "answers": ["Next", "Done", "Close"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Dragon Ball is about?",
-            "answers": ["Soccer", "Fighting", "Cooking"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "One Piece is about?",
-            "answers": ["Pirates", "Ninjas", "Knights"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Goku's transformation?",
-            "answers": ["Saiyan", "Titan", "Shinigami"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "What is Bleach?",
-            "answers": ["Detergent", "Anime", "Game"],
-            "correctAnswerIndex": 1
-        },
-        {
-            "question": "Sailor Moon fights?",
-            "answers": ["Aliens", "Robots", "Monsters"],
-            "correctAnswerIndex": 2
-        },
-        {
-            "question": "Attack on Titan?",
-            "answers": ["Giants", "Dragons", "Aliens"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Pokémon are?",
-            "answers": ["Aliens", "Animals", "Monsters"],
-            "correctAnswerIndex": 2
-        },
-        {
-            "question": "Death Note is a?",
-            "answers": ["Notebook", "Sword", "Shield"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Who is Ash's first Pokémon?",
-            "answers": ["Pikachu", "Charizard", "Bulbasaur"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Click CLAIM🎩 to get DEGEN",
-            "answers": ["Done", "Next", "Later"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Light Yagami's alias?",
-            "answers": ["Kira", "L", "Misa"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Naruto's goal?",
-            "answers": ["Hokage", "Pirate King", "Champion"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Elric brothers' quest?",
-            "answers": ["Philosopher's Stone", "Dragon Balls", "One Piece"],
-            "correctAnswerIndex": 0
-        },
-        {
-            "question": "Sword Art Online is?",
-            "answers": ["MMORPG", "FPS", "RPG"],
-            "correctAnswerIndex": 0
-        }
-    ]
+  "shortDescription": "Moxie Protocol Quiz by @xbornid",
+  "questions": [
+    {
+      "question": "Apa tujuan utama Moxie Protocol?",
+      "answers": [
+        "Insentif ekonomi",
+        "Jual token",
+        "Trading NFT"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Siapa yang mengembangkan Moxie Protocol?",
+      "answers": [
+        "Farcaster",
+        "Airstack",
+        "Ethereum"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Apa yang diterima oleh anggota Farcaster sebelum 10 Juli 2024?",
+      "answers": [
+        "NFT",
+        "Token MOXIE",
+        "Airdrop"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Apa yang dimiliki entitas di Farcaster?",
+      "answers": [
+        "Fan Tokens",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Berapa persentase token MOXIE untuk Engagement Mining?",
+      "answers": [
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Siapa yang akan mengintegrasikan Moxie ke semua aspek operasionalnya?",
+      "answers": [
+        "Airstack",
+        "Ethereum",
+        "Farcaster"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Berapa lama periode penguncian token untuk tim inti Moxie?",
+      "answers": [
+        "12 bulan",
+        "24 bulan",
+        "42 bulan"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Apa elemen kunci dalam ekosistem Moxie Protocol?",
+      "answers": [
+        "Token MOXIE",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Apa tujuan dari program grant Farcaster?",
+      "answers": [
+        "Mengembangkan proyek",
+        "Trading",
+        "Jual NFT"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Apa yang diberikan oleh program penghargaan harian Moxie Protocol?",
+      "answers": [
+        "Insentif pengguna",
+        "Token gratis",
+        "Hadiah NFT"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Click CLAIM🎩 to get DEGEN",
+      "answers": [
+        "Next",
+        "Done",
+        "Later"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Apa yang digunakan Moxie Protocol untuk mengelola operasional?",
+      "answers": [
+        "Smart Contract",
+        "Manual",
+        "AI"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Apa yang disediakan Moxie Protocol untuk memantau kinerja ekosistem?",
+      "answers": [
+        "Dashboard",
+        "Laporan",
+        "Manual"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Apa fokus utama dari pengalaman pengguna Moxie Protocol?",
+      "answers": [
+        "Interaksi menyenangkan",
+        "Trading",
+        "Mining"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Apa kesimpulan dari Moxie Protocol?",
+      "answers": [
+        "Pemberdayaan komunitas",
+        "Jual NFT",
+        "Trading"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
 }
