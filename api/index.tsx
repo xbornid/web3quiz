@@ -31,7 +31,7 @@ app.frame('/', async c => {
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
           <Heading color="h1Text" align="center" size="60">
-          🎩GET REWARD!
+          ANIME-MANGA QUIZ!
           </Heading>
 
           <Text align="center" size="18">
@@ -71,7 +71,7 @@ app.frame('/next', async c => {
         </Button>
       )
     }),
-    <Button.Link href={buttonUrl}>Claim🎩</Button.Link>,
+    <Button.Link href={buttonUrl}>Share</Button.Link>,
   ])
 
   return c.res({
