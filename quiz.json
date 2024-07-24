@@ -1,139 +1,79 @@
 {
-  "shortDescription": "Moxie Protocol Quiz by @xbornid",
+  "shortDescription": "Test your knowledge of anime-manga quiz by @xbornid.",
   "questions": [
     {
-      "question": "Apa tujuan utama Moxie Protocol?",
-      "answers": [
-        "Insentif ekonomi",
-        "Jual token",
-        "Trading NFT"
-      ],
+      "question": "Who is Goku?",
+      "answers": ["Saiyan", "Ninja", "Pirate"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Siapa yang mengembangkan Moxie Protocol?",
-      "answers": [
-        "Farcaster",
-        "Airstack",
-        "Ethereum"
-      ],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "Apa yang diterima oleh anggota Farcaster sebelum 10 Juli 2024?",
-      "answers": [
-        "NFT",
-        "Token MOXIE",
-        "Airdrop"
-      ],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "Apa yang dimiliki entitas di Farcaster?",
-      "answers": [
-        "Fan Tokens",
-        "Bitcoin",
-        "Ethereum"
-      ],
+      "question": "What is One Piece?",
+      "answers": ["Treasure", "Weapon", "Ship"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Berapa persentase token MOXIE untuk Engagement Mining?",
-      "answers": [
-        "10%",
-        "15%",
-        "20%"
-      ],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "Siapa yang mengintegrasikan Moxie ke semua aspek?",
-      "answers": [
-        "Airstack",
-        "Ethereum",
-        "Farcaster"
-      ],
+      "question": "Who is Naruto?",
+      "answers": ["Ninja", "Samurai", "Mage"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Berapa lama penguncian token tim inti Moxie??",
-      "answers": [
-        "12 bulan",
-        "24 bulan",
-        "42 bulan"
-      ],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "Apa elemen kunci dalam ekosistem Moxie Protocol?",
-      "answers": [
-        "Token MOXIE",
-        "Bitcoin",
-        "Ethereum"
-      ],
+      "question": "What is Bleach?",
+      "answers": ["Anime", "Game", "Song"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Apa tujuan dari program grant Farcaster?",
-      "answers": [
-        "Mengembangkan proyek",
-        "Trading",
-        "Jual NFT"
-      ],
+      "question": "Who is Luffy?",
+      "answers": ["Pirate", "Saiyan", "Shinigami"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Apa hadiah dari penghargaan harian Moxie Protocol?",
-      "answers": [
-        "Insentif pengguna",
-        "Token gratis",
-        "Hadiah NFT"
-      ],
+      "question": "What is Studio Ghibli?",
+      "answers": ["Studio", "Character", "Manga"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Click CLAIM🎩 to get DEGEN",
-      "answers": [
-        "Next",
-        "Done",
-        "Later"
-      ],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "Pengelolaan operasional Moxie Protocol?",
-      "answers": [
-        "Smart Contract",
-        "Manual",
-        "AI"
-      ],
+      "question": "Who created Naruto?",
+      "answers": ["Kishimoto", "Oda", "Toriyama"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Pemantauan kinerja ekosistem oleh Moxie Protocol?",
-      "answers": [
-        "Dashboard",
-        "Laporan",
-        "Manual"
-      ],
+      "question": "What is Dragon Ball?",
+      "answers": ["Anime", "Food", "Book"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Fokus utama pengalaman pengguna di Moxie Protocol?",
-      "answers": [
-        "Interaksi menyenangkan",
-        "Trading",
-        "Mining"
-      ],
+      "question": "Who is Sailor Moon?",
+      "answers": ["Heroine", "Villain", "Pet"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Apa kesimpulan dari Moxie Protocol?",
-      "answers": [
-        "Pemberdayaan komunitas",
-        "Jual NFT",
-        "Trading"
-      ],
+      "question": "What is Death Note?",
+      "answers": ["Notebook", "Sword", "Potion"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Pikachu?",
+      "answers": ["Pokemon", "Digimon", "Yokai"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Attack on Titan?",
+      "answers": ["Anime", "Game", "Song"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ichigo?",
+      "answers": ["Shinigami", "Saiyan", "Mage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is My Hero Academia?",
+      "answers": ["Anime", "Book", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Light Yagami?",
+      "answers": ["Student", "Pirate", "Samurai"],
       "correctAnswerIndex": 0
     }
   ]
