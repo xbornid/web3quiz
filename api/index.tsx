@@ -31,7 +31,7 @@ app.frame('/', async c => {
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
           <Heading color="h1Text" align="center" size="60">
-          ANIME-MANGA
+          FARCASTER Quiz!
           </Heading>
 
           <Text align="center" size="18">
@@ -52,7 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`I've completed this Anime-Manga quiz! Let's try your knowledge about Anime-Manga by @xbornid`)
+  const message = encodeURIComponent(`I've completed the Farcaster quiz! Let's try your knowledge about Farcaster by @xbornid`)
   const buttonUrl = `https://warpcast.com/~/compose?text=${message}&channelKey=xbteam&embeds[]=${appShareUrl}`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
