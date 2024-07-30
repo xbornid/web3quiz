@@ -1,80 +1,155 @@
 {
-  "shortDescription": "Test your knowledge of anime-manga quiz by @xbornid.",
+  "shortDescription": "Test your knowledge of the Farcaster Quiz by @xbornid",
   "questions": [
     {
-      "question": "Who is Goku?",
-      "answers": ["Saiyan", "Ninja", "Pirate"],
+      "question": "What is Farcaster?",
+      "answers": ["Protocol", "App", "Server"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is One Piece?",
-      "answers": ["Treasure", "Weapon", "Ship"],
+      "question": "Which layer is Farcaster?",
+      "answers": ["Layer1", "Layer2", "Layer3"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Farcaster ensures?",
+      "answers": ["Privacy", "Speed", "Security"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Farcaster's primary use?",
+      "answers": ["Chat", "Finance", "Social"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Key feature of Farcaster?",
+      "answers": ["Decentral", "Central", "Single"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Naruto?",
-      "answers": ["Ninja", "Samurai", "Mage"],
+      "question": "Farcaster built on?",
+      "answers": ["Bitcoin", "Ethereum", "Solana"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Main component of Farcaster?",
+      "answers": ["Hub", "Node", "Server"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Bleach?",
-      "answers": ["Anime", "Game", "Song"],
+      "question": "Farcaster enables?",
+      "answers": ["DApps", "Sites", "Apps"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Luffy?",
-      "answers": ["Pirate", "Saiyan", "Shinigami"],
+      "question": "Farcaster is?",
+      "answers": ["Open", "Closed", "Restricted"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Studio Ghibli?",
-      "answers": ["Studio", "Character", "Manga"],
+      "question": "Farcaster's focus?",
+      "answers": ["Privacy", "Social", "Data"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Farcaster protocol is?",
+      "answers": ["Scalable", "Slow", "Limited"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who created Naruto?",
-      "answers": ["Kishimoto", "Oda", "Toriyama"],
+      "question": "Farcaster user control?",
+      "answers": ["Full", "None", "Partial"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Dragon Ball?",
-      "answers": ["Anime", "Food", "Book"],
+      "question": "Farcaster supports?",
+      "answers": ["Identity", "Currency", "Trading"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Sailor Moon?",
-      "answers": ["Heroine", "Villain", "Pet"],
+      "question": "Farcaster's advantage?",
+      "answers": ["Control", "Price", "Speed"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Death Note?",
-      "answers": ["Notebook", "Sword", "Potion"],
+      "question": "Farcaster network type?",
+      "answers": ["Peer", "Client", "Server"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Pikachu?",
-      "answers": ["Pokemon", "Digimon", "Yokai"],
+      "question": "Farcaster allows?",
+      "answers": ["Messages", "Calls", "Games"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Attack on Titan?",
-      "answers": ["Anime", "Game", "Song"],
+      "question": "Farcaster developed by?",
+      "answers": ["Team", "Solo", "Company"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Farcaster's main benefit?",
+      "answers": ["Decentral", "Central", "Closed"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Ichigo?",
-      "answers": ["Shinigami", "Saiyan", "Mage"],
+      "question": "Farcaster ensures?",
+      "answers": ["Ownership", "License", "Loan"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is My Hero Academia?",
-      "answers": ["Anime", "Book", "Game"],
+      "question": "Farcaster community?",
+      "answers": ["Active", "Passive", "Inactive"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is Light Yagami?",
-      "answers": ["Student", "Pirate", "Samurai"],
+      "question": "Farcaster interactions?",
+      "answers": ["Posts", "Trades", "Buys"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster emphasizes?",
+      "answers": ["Speed", "Ownership", "Cost"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Farcaster's goal?",
+      "answers": ["Social", "Finance", "Gaming"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster's design?",
+      "answers": ["Open", "Closed", "Hidden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster's nodes?",
+      "answers": ["Peer", "Master", "Slave"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster's security?",
+      "answers": ["High", "Low", "Medium"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster data stored?",
+      "answers": ["Blockchain", "Cloud", "Server"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster uses?",
+      "answers": ["ETH", "BTC", "SOL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster's core?",
+      "answers": ["Protocol", "App", "Site"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Farcaster launched?",
+      "answers": ["2020", "2021", "2019"],
+      "correctAnswerIndex": 1
     }
   ]
 }
